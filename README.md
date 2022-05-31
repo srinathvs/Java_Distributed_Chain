@@ -5,4 +5,4 @@ The code consists of a block server and a bunch fo block clients working togethe
 
 The first process to verify the block gets credit for the verification
 
-Sample ledgers can be found in the ledgersample.java files
+Sample ledgers can be found in the ledgersample.json file
