@@ -6,3 +6,5 @@ The code consists of a block server and a bunch fo block clients working togethe
 The first process to verify the block gets credit for the verification
 
 Sample ledgers can be found in the ledgersample.json file
+
+Source code can be found in the RealBlockChain/BlockChain.java
