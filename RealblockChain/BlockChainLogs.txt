@@ -1,0 +1,1721 @@
+Process 0 :
+
+"C:\Program Files\Java\jdk-13.0.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Educational Edition 2020.2.1\lib\idea_rt.jar=53887:C:\Program Files\JetBrains\IntelliJ IDEA Educational Edition 2020.2.1\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\srina\IdeaProjects\BlockA\out\production\BlockA;C:\Users\srina\Desktop\DistributedSystems\Blockchain\gson-2.8.2.jar BlockChain 0
+
+Process0 is starting up : 
+
+size of the list of records is : []
+Starting Key Server input thread using 4610
+Starting the Unverified Block Server input thread using 4710
+Starting the Blockchain server input thread using 4810
+Got key: KeyProcess0
+Got key: KeyProcess1
+Got key: KeyProcess2
+
+JSON String blockRecord is: {
+  "VerificationProcessID": "0",
+  "uuid": "b6394b81-76d5-44bc-9f0e-8a3d2f46dd5c",
+  "Fname": "Random",
+  "Lname": "assignment",
+  "SSNum": "115-334-123",
+  "DOB": "1995.09.17",
+  "Diag": "Insomnia",
+  "Treat": "Pills",
+  "Rx": "Exercise",
+  "RandomSeed": "c63893",
+  "WinningHash": "4997a188927fd1a03484636ac2bd0a6e0d0dbe16403ba9674972744f91a1dcf2",
+  "TimeStamp": " 2020-11-04.22:42:10.0"
+}
+4 records read.
+
+Records in the linked list:
+ 2020-11-04.22:42:10.0 Random assignment
+ 2020-11-04.22:42:10.0 John Smith
+ 2020-11-04.22:42:10.0 Joe 
+ 2020-11-04.22:42:10.0 Julie Wilson
+ 2020-11-04.22:42:10.0 Wayne Blaine
+
+The shuffled list:
+ 2020-11-04.22:42:10.0 Wayne Blaine
+ 2020-11-04.22:42:10.0 John Smith
+ 2020-11-04.22:42:10.0 Random assignment
+ 2020-11-04.22:42:10.0 Joe 
+ 2020-11-04.22:42:10.0 Julie Wilson
+
+Placing shuffled records in our priority queue...
+
+Priority Queue (restored) Order:
+ 2020-11-04.22:42:10.0 Wayne Blaine
+ 2020-11-04.22:42:10.0 Julie Wilson
+ 2020-11-04.22:42:10.0 Joe 
+ 2020-11-04.22:42:10.0 Random assignment
+ 2020-11-04.22:42:10.0 John Smith
+
+
+
+Recoreded list is of the size : [BlockRecord@71be98f5, BlockRecord@6fadae5d, BlockRecord@17f6480, BlockRecord@2d6e8792, BlockRecord@2812cbfa]
+Sending UVBs to process 0...
+Received UVB:  2020-11-04.22:42:10.0  2020-11-04.22:42:10.0 Joe 
+Received UVB:  2020-11-04.22:42:10.0  2020-11-04.22:42:10.0 John Smith
+Received UVB:  2020-11-04.22:42:10.0  2020-11-04.22:42:10.0 Julie Wilson
+Received UVB:  2020-11-04.22:42:10.0  2020-11-04.22:42:10.0 Wayne Blaine
+Sending UVBs to process 1...
+Received UVB:  2020-11-04.22:42:10.0  2020-11-04.22:42:10.0 Random assignment
+Received UVB:  2020-11-04.22:42:11.1  2020-11-04.22:42:11.1 Sally McCutty
+Received UVB:  2020-11-04.22:42:11.1  2020-11-04.22:42:11.1 Random assignment
+Received UVB:  2020-11-04.22:42:11.1  2020-11-04.22:42:11.1 Bruce Lee
+Received UVB:  2020-11-04.22:42:11.1  2020-11-04.22:42:11.1 Rita Vita
+Received UVB:  2020-11-04.22:42:11.1  2020-11-04.22:42:11.1 Wei 
+Sending UVBs to process 2...
+Received UVB:  2020-11-04.22:42:13.2  2020-11-04.22:42:13.2 Abraham Lincoln
+Received UVB:  2020-11-04.22:42:13.2  2020-11-04.22:42:13.2 Joe DiMaggio
+Received UVB:  2020-11-04.22:42:13.2  2020-11-04.22:42:13.2 Random assignment
+Received UVB:  2020-11-04.22:42:13.2  2020-11-04.22:42:13.2 Helen Keller
+Received UVB:  2020-11-04.22:42:13.2  2020-11-04.22:42:13.2 John Kennedy
+Starting the Unverified Block Priority Queue Consumer thread.
+
+0x0000 = 0
+0xFFFF = 65535
+
+Hash is: A459926F4944905969BE7C8714FF32146ADCBD51A97A4F045EEEFB3E5EAC6F0E
+First 16 bits in Hex and Decimal: A459 and 42073
+42073 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 7CAC2F58EEDEEFBDAE0F0EA8791F5B315040F99DAD260B66ECCF3F25A57BDDE9
+First 16 bits in Hex and Decimal: 7CAC and 31916
+31916 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: D8C70A0494728B8667B6ADB80BCFBF1B92FA7DFFD94B85CD033A9CB04A09D88E
+First 16 bits in Hex and Decimal: D8C7 and 55495
+55495 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 76CA3F111FA53CBA940D50DECBBE752DE67BBA0D49260E9B650137337F34C19C
+First 16 bits in Hex and Decimal: 76CA and 30410
+30410 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: DC8BC143068D1C421A631992FB9EF281FC9FB035AD4132D3BC55E95491946648
+First 16 bits in Hex and Decimal: DC8B and 56459
+56459 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: E8983B4D54097AC9CF309DAED382A06F483FB84054F22A127884D5401B8012BB
+First 16 bits in Hex and Decimal: E898 and 59544
+59544 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 1707A7508DF144E95A663BB6612A25A5714F0EF3E3C9F6EEA87BF9FB81A5FF76
+First 16 bits in Hex and Decimal: 1707 and 5895
+5895 IS less than 20,000 so puzzle solved!
+The seed (puzzle answer) was: CB1DDGC2
+Has the signature been verified: true
+
+Hexidecimal byte[] Representation of Original SHA256 Hash: 0019419f6c3f65640480900f00ed2e7a8559032992ebc9ef497343c129994c2d
+
+nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888Smallpox
+=========> In WriteJSON <=========
+
+String blockRecord is: nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888Smallpox
+
+JSON String blockRecord is: "nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888Smallpox"
+[Joe verified by P0 at time ]
+         --NEW BLOCKCHAIN--
+
+nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888Smallpox
+
+
+0x0000 = 0
+0xFFFF = 65535
+
+Hash is: 1E952E7BA4AFA361316518D7FCB4BB5A8121EE3FA4681F01A92F1146FD299A9C
+First 16 bits in Hex and Decimal: 1E95 and 7829
+7829 IS less than 20,000 so puzzle solved!
+The seed (puzzle answer) was: D5D32CDS
+Has the signature been verified: true
+
+Hexidecimal byte[] Representation of Original SHA256 Hash: 9fc627a0dce9522abefcba3f8c055bd1abca8236c10e4289f19a3c95ab638115
+
+nullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirin
+=========> In WriteJSON <=========
+
+String blockRecord is: nullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirin
+
+JSON String blockRecord is: "nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirin"
+[John verified by P0 at time ]
+         --NEW BLOCKCHAIN--
+
+nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirin
+
+
+0x0000 = 0
+0xFFFF = 65535
+
+Hash is: BA155232677FDBDC7F3929ABBB16BA91F9B3CFC35DBC01CCE3B909F208CAD23E
+First 16 bits in Hex and Decimal: BA15 and 47637
+47637 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: EA487307EB9AC6F927F06EEA42DE3B46F0C0F9CC0852CD11EB2FEC8666D9493F
+First 16 bits in Hex and Decimal: EA48 and 59976
+59976 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 6E2ADB9DD1921C98BE6D1386B2E1A7E0C41880F23ADD364A39A1D0FE67020083
+First 16 bits in Hex and Decimal: 6E2A and 28202
+28202 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: AB21EC345881D5144CB28D6F28FBF37962896A0F0725EA02DACD77C05EC1C1EE
+First 16 bits in Hex and Decimal: AB21 and 43809
+43809 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: E8138594F93E1F9F792453B504D579EC218990B14BF16DD2A0DF49E01FFB858E
+First 16 bits in Hex and Decimal: E813 and 59411
+59411 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 56F63BB2EB6065327FBBAE5793D9E7B524ABC68DD93CC9F52988060B1CE1C758
+First 16 bits in Hex and Decimal: 56F6 and 22262
+22262 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: F77D436DA4DC2B2ABD9D28069F846A8177607ABC155DA71027C9B37C33C7D4A9
+First 16 bits in Hex and Decimal: F77D and 63357
+63357 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 73D587C39829EDD306BCAA904D7218621C5A427CD539AA5A787FEB7263396E2B
+First 16 bits in Hex and Decimal: 73D5 and 29653
+29653 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: B3275544DABD5937F698DC2EB22246DA27F8C16FD206BEF6687BFB693BB955CF
+First 16 bits in Hex and Decimal: B327 and 45863
+45863 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 212F5606A175A76A75A44BD573C2459ED8FB6A4346BE1931308CA4A6A8FBE96B
+First 16 bits in Hex and Decimal: 212F and 8495
+8495 IS less than 20,000 so puzzle solved!
+The seed (puzzle answer) was: 14441332
+Has the signature been verified: true
+
+Hexidecimal byte[] Representation of Original SHA256 Hash: 7f35ae16b724227b20b3605e9049a582909fc7e4e44e344969413e9e7c044e69
+
+nullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d14441332WayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOil
+=========> In WriteJSON <=========
+
+String blockRecord is: nullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d14441332WayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOil
+
+JSON String blockRecord is: "nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d14441332WayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOil"
+[Wayne verified by P0 at time ]
+         --NEW BLOCKCHAIN--
+
+nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d14441332WayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOil
+
+
+         --NEW BLOCKCHAIN--
+
+
+nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44C1DADAS1JohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4ADB11GD3JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppers
+
+
+0x0000 = 0
+0xFFFF = 65535
+
+Hash is: 95F4D5010EF0EB53E263F358F045D4725223A18963A078662D1478B3A2FFF8BD
+First 16 bits in Hex and Decimal: 95F4 and 38388
+38388 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: FA317AB768F1D629E0D9B6DEEDEEE42A25F74C28B734C19265DA7F26384B2D6F
+First 16 bits in Hex and Decimal: FA31 and 64049
+64049 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: E9989BA13047AE28F3964EAB3ADD771F1564217DC9C1AE9C9867F93439B3A8B6
+First 16 bits in Hex and Decimal: E998 and 59800
+59800 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 176120DDD2C45EB0C59FEDD0AFD68D07D818AAAE85B14A76C90AA0DFB512CF23
+First 16 bits in Hex and Decimal: 1761 and 5985
+5985 IS less than 20,000 so puzzle solved!
+The seed (puzzle answer) was: DADDGBC2
+Has the signature been verified: true
+
+Hexidecimal byte[] Representation of Original SHA256 Hash: 4c5c6ea69982d8d670930e5f5105752b490f16da5498b7f90c3378e0150c44eb
+
+null0nullRandomassignment115-334-123Exercise1995.09.17c63893DADDGBC2Randomassignment115-334-1231995.09.17InsomniaPillsExercise
+=========> In WriteJSON <=========
+
+String blockRecord is: null0nullRandomassignment115-334-123Exercise1995.09.17c63893DADDGBC2Randomassignment115-334-1231995.09.17InsomniaPillsExercise
+
+JSON String blockRecord is: "nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d14441332WayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c63893DADDGBC2Randomassignment115-334-1231995.09.17InsomniaPillsExercise"
+[Random verified by P0 at time ]
+         --NEW BLOCKCHAIN--
+
+nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d14441332WayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c63893DADDGBC2Randomassignment115-334-1231995.09.17InsomniaPillsExercise
+
+
+         --NEW BLOCKCHAIN--
+
+
+
+nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44C1DADAS1JohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4ADB11GD3JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44S2SBDB3DJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4A4AAA353JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppers
+
+
+0x0000 = 0
+0xFFFF = 65535
+
+Hash is: EA2C7D34B2C39ECCD8BF725BDD0775EAE0FF2D6351C47A8DD0C39D2828F7A28E
+First 16 bits in Hex and Decimal: EA2C and 59948
+59948 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 0937AA4CD17FFD6C9E8E30CFECFB4E51C022E53462E9C97AF27F93E675300D48
+First 16 bits in Hex and Decimal: 0937 and 2359
+2359 IS less than 20,000 so puzzle solved!
+The seed (puzzle answer) was: 5SDS53DA
+Has the signature been verified: true
+
+Hexidecimal byte[] Representation of Original SHA256 Hash: 91a7091ac03cd463d2db810e5a202daceca0bd7fde96fe75fafc63a8abf65385
+
+nullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f45SDS53DAJulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppers
+=========> In WriteJSON <=========
+
+String blockRecord is: nullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f45SDS53DAJulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppers
+
+JSON String blockRecord is: "nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d14441332WayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c63893DADDGBC2Randomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f45SDS53DAJulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppers"
+         --NEW BLOCKCHAIN--
+
+
+nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44C1DADAS1JohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4ADB11GD3JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullJoeSmallpoxBlow52bd9fAB4AC4GAJoeBlow1996.03.07123-45-6888SmallpoxnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d4321422AWayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOil
+
+
+0x0000 = 0
+0xFFFF = 65535
+
+Hash is: 98BDBC291FC843B4C107284F586069F59AB734D102041D1C3DD1A8B5BA1896CD
+First 16 bits in Hex and Decimal: 98BD and 39101
+39101 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 88E248D71077DD079000ED608F1384D26C173C712AB5C2CC5B4C4EDF280A7C52
+First 16 bits in Hex and Decimal: 88E2 and 35042
+35042 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: D759BA8923AA5545FE5CD8940529B130D79E240FE5FAC6B90ED9016D1DF8C3BE
+First 16 bits in Hex and Decimal: D759 and 55129
+55129 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: AD39A8EEE209B76C686904CF99F2D77942CE62CE31F6A31F438C9C0CA53BD040
+First 16 bits in Hex and Decimal: AD39 and 44345
+44345 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: EB4309C7911E24EDAF6C47FCEA12498E560F5C67828DBEF4A8E6F9A12A14AA4A
+First 16 bits in Hex and Decimal: EB43 and 60227
+60227 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 3A06C0F6BBB03063C9E475A9A82A36FA3DEB9550B8B3968B9E7333297F382DA9
+First 16 bits in Hex and Decimal: 3A06 and 14854
+14854 IS less than 20,000 so puzzle solved!
+The seed (puzzle answer) was: SA4DS5AD
+Has the signature been verified: true
+
+Hexidecimal byte[] Representation of Original SHA256 Hash: e3cb1131dc259266ffd831fa978936bfa85a17ec13079e559503e8c539e3a132
+
+nullnullnullBruceLee456-789-123Vicodine1940.11.27ca66bSA4DS5ADBruceLee456-789-1231940.11.27SoreStomachLessCombatVicodine
+=========> In WriteJSON <=========
+
+String blockRecord is: nullnullnullBruceLee456-789-123Vicodine1940.11.27ca66bSA4DS5ADBruceLee456-789-1231940.11.27SoreStomachLessCombatVicodine
+
+JSON String blockRecord is: "nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d14441332WayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c63893DADDGBC2Randomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f45SDS53DAJulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullBruceLee456-789-123Vicodine1940.11.27ca66bSA4DS5ADBruceLee456-789-1231940.11.27SoreStomachLessCombatVicodine"
+[Bruce verified by P0 at time ]
+         --NEW BLOCKCHAIN--
+
+nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d14441332WayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c63893DADDGBC2Randomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f45SDS53DAJulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullBruceLee456-789-123Vicodine1940.11.27ca66bSA4DS5ADBruceLee456-789-1231940.11.27SoreStomachLessCombatVicodine
+
+
+0x0000 = 0
+0xFFFF = 65535
+
+Hash is: DF7922BA5E0D6D28EE126CA1ED2DD767DC8050F5A3688393DCD1F61E7EE0ADB5
+First 16 bits in Hex and Decimal: DF79 and 57209
+57209 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: F389AE7AC3B79A9C51B9A7D75BBB97D159CB167A4319AA3BA0D1B2FFED9D1F97
+First 16 bits in Hex and Decimal: F389 and 62345
+62345 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 6C9CBCE10374E946C9EF9D75B1AC7F1C87871F96CB6869355174FCFE9269C039
+First 16 bits in Hex and Decimal: 6C9C and 27804
+27804 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 96D098BE1315BEB577D1A1F003CBD157D9D5FF57A8707E94122C181E0B3FE6E3
+First 16 bits in Hex and Decimal: 96D0 and 38608
+38608 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 4C25B34FB0D3155388B256D105FF6A40662AF3CB4361B04069D59EAFE19E4F41
+First 16 bits in Hex and Decimal: 4C25 and 19493
+19493 IS less than 20,000 so puzzle solved!
+The seed (puzzle answer) was: 1SGA213G
+Has the signature been verified: true
+
+Hexidecimal byte[] Representation of Original SHA256 Hash: cf1ee8e4735429fa9cc65349a32379d0c3b6faa6fc3075b22e69c05b7afd99ca
+
+nullnullnullRitaVita1992.01.31TryToRelax6fcb191SGA213GRitaVita1992.01.31999-456-789ObessivePersonalityTryToRelax
+=========> In WriteJSON <=========
+
+String blockRecord is: nullnullnullRitaVita1992.01.31TryToRelax6fcb191SGA213GRitaVita1992.01.31999-456-789ObessivePersonalityTryToRelax
+
+JSON String blockRecord is: "nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d14441332WayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c63893DADDGBC2Randomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f45SDS53DAJulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullBruceLee456-789-123Vicodine1940.11.27ca66bSA4DS5ADBruceLee456-789-1231940.11.27SoreStomachLessCombatVicodinenullnullnullRitaVita1992.01.31TryToRelax6fcb191SGA213GRitaVita1992.01.31999-456-789ObessivePersonalityTryToRelax"
+[Rita verified by P0 at time ]
+         --NEW BLOCKCHAIN--
+
+nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d14441332WayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c63893DADDGBC2Randomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f45SDS53DAJulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullBruceLee456-789-123Vicodine1940.11.27ca66bSA4DS5ADBruceLee456-789-1231940.11.27SoreStomachLessCombatVicodinenullnullnullRitaVita1992.01.31TryToRelax6fcb191SGA213GRitaVita1992.01.31999-456-789ObessivePersonalityTryToRelax
+
+
+         --NEW BLOCKCHAIN--
+
+
+nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44C1DADAS1JohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4ADB11GD3JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullJoeSmallpoxBlow52bd9fAB4AC4GAJoeBlow1996.03.07123-45-6888SmallpoxnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d4321422AWayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c638931215D1SARandomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullWeiShinglesXubbd9f55D1GA12SWeiXu1996.03.22123-456-333Shingles
+
+
+0x0000 = 0
+0xFFFF = 65535
+
+Hash is: D00A71DF810297AB6A2B1177B302A1823EC29E5F4CCDA0A27BEF6ED8D2D3752B
+First 16 bits in Hex and Decimal: D00A and 53258
+53258 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: ED0274A0EA8699B31F8CF14257A3B46D5A25B051DDF55DC6AEB2F6A743AF6FFB
+First 16 bits in Hex and Decimal: ED02 and 60674
+60674 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: D99A15E9B46684672A6E5012B60BEF8936C2815F64283C856ACF53D7EE4B7BA9
+First 16 bits in Hex and Decimal: D99A and 55706
+55706 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 3BE305CE7E3DA1A19D314A54A5B88BA783911BDEF92EC2A323E83C91A4FA25A8
+First 16 bits in Hex and Decimal: 3BE3 and 15331
+15331 IS less than 20,000 so puzzle solved!
+The seed (puzzle answer) was: 1GDCSA2C
+Has the signature been verified: true
+
+Hexidecimal byte[] Representation of Original SHA256 Hash: b83b92a1c14c238b9dbdecfc32bd35354f9dc81c9361382de88877e9be8b8271
+
+nullnullnullWeiShinglesXubbd9f51GDCSA2CWeiXu1996.03.22123-456-333Shingles
+=========> In WriteJSON <=========
+
+String blockRecord is: nullnullnullWeiShinglesXubbd9f51GDCSA2CWeiXu1996.03.22123-456-333Shingles
+
+JSON String blockRecord is: "nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d14441332WayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c63893DADDGBC2Randomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f45SDS53DAJulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullBruceLee456-789-123Vicodine1940.11.27ca66bSA4DS5ADBruceLee456-789-1231940.11.27SoreStomachLessCombatVicodinenullnullnullRitaVita1992.01.31TryToRelax6fcb191SGA213GRitaVita1992.01.31999-456-789ObessivePersonalityTryToRelaxnullnullnullWeiShinglesXubbd9f51GDCSA2CWeiXu1996.03.22123-456-333Shingles"
+         --NEW BLOCKCHAIN--
+
+
+nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44C1DADAS1JohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4ADB11GD3JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullJoeSmallpoxBlow52bd9fAB4AC4GAJoeBlow1996.03.07123-45-6888SmallpoxnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d4321422AWayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c638931215D1SARandomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullWeiShinglesXubbd9f55D1GA12SWeiXu1996.03.22123-456-333ShinglesnullnullnullBruceLee456-789-123Vicodine1940.11.27ca66b115SSD21BruceLee456-789-1231940.11.27SoreStomachLessCombatVicodine
+
+
+0x0000 = 0
+0xFFFF = 65535
+
+Hash is: 91D4F04E54BD2E091B04647C73F261EFA58511BC9747DE168E2EB6E4BA7009C0
+First 16 bits in Hex and Decimal: 91D4 and 37332
+37332 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 930EF516E74B4B578261531163A5730C32E31750F29908DFC49FE3E5401E368B
+First 16 bits in Hex and Decimal: 930E and 37646
+37646 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: C34823DF3192F20144C0EC074C844FEAF07FD1FC0F141CBC373E19E6EF5B4A63
+First 16 bits in Hex and Decimal: C348 and 49992
+49992 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: BFC0A5F9B6BBB8713F802995605D74931AD3A80ED02CD08B3A31D36F83A56069
+First 16 bits in Hex and Decimal: BFC0 and 49088
+49088 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 2AA15E4E8671C0BC6F461AE8230627088FCB8F084C1DB98BEAEEB10A5D892E5D
+First 16 bits in Hex and Decimal: 2AA1 and 10913
+10913 IS less than 20,000 so puzzle solved!
+The seed (puzzle answer) was: S4A4CS3C
+Has the signature been verified: true
+
+Hexidecimal byte[] Representation of Original SHA256 Hash: efd3b9600d90d3c39d34a65b93919fdc61ac39b7641851a5e2cb5e1d9a9412cb
+
+nullnullnullSallyMcCutty123-456-999Almotriptan1970.01.01787e22S4A4CS3CSallyMcCutty123-456-9991970.01.01MigraineIcePackAlmotriptan
+=========> In WriteJSON <=========
+
+String blockRecord is: nullnullnullSallyMcCutty123-456-999Almotriptan1970.01.01787e22S4A4CS3CSallyMcCutty123-456-9991970.01.01MigraineIcePackAlmotriptan
+
+JSON String blockRecord is: "nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d14441332WayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c63893DADDGBC2Randomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f45SDS53DAJulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullBruceLee456-789-123Vicodine1940.11.27ca66bSA4DS5ADBruceLee456-789-1231940.11.27SoreStomachLessCombatVicodinenullnullnullRitaVita1992.01.31TryToRelax6fcb191SGA213GRitaVita1992.01.31999-456-789ObessivePersonalityTryToRelaxnullnullnullWeiShinglesXubbd9f51GDCSA2CWeiXu1996.03.22123-456-333ShinglesnullnullnullSallyMcCutty123-456-999Almotriptan1970.01.01787e22S4A4CS3CSallyMcCutty123-456-9991970.01.01MigraineIcePackAlmotriptan"
+[Sally verified by P0 at time ]
+         --NEW BLOCKCHAIN--
+
+nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d14441332WayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c63893DADDGBC2Randomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f45SDS53DAJulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullBruceLee456-789-123Vicodine1940.11.27ca66bSA4DS5ADBruceLee456-789-1231940.11.27SoreStomachLessCombatVicodinenullnullnullRitaVita1992.01.31TryToRelax6fcb191SGA213GRitaVita1992.01.31999-456-789ObessivePersonalityTryToRelaxnullnullnullWeiShinglesXubbd9f51GDCSA2CWeiXu1996.03.22123-456-333ShinglesnullnullnullSallyMcCutty123-456-999Almotriptan1970.01.01787e22S4A4CS3CSallyMcCutty123-456-9991970.01.01MigraineIcePackAlmotriptan
+
+
+0x0000 = 0
+0xFFFF = 65535
+
+Hash is: 3F09D2B18D0D21925C60D180D9AD3D535F2C737905DD9B108B553749D6E26CC1
+First 16 bits in Hex and Decimal: 3F09 and 16137
+16137 IS less than 20,000 so puzzle solved!
+The seed (puzzle answer) was: S4SCSSAA
+Has the signature been verified: true
+
+Hexidecimal byte[] Representation of Original SHA256 Hash: 3df7a79165e097497825ddedb95dcbf9e93be08668b188c6fa8bb5712e3d207d
+
+null1nullRandomassignment115-334-123Exercise1995.09.17ba4e67S4SCSSAARandomassignment115-334-1231995.09.17InsomniaPillsExercise
+=========> In WriteJSON <=========
+
+String blockRecord is: null1nullRandomassignment115-334-123Exercise1995.09.17ba4e67S4SCSSAARandomassignment115-334-1231995.09.17InsomniaPillsExercise
+
+JSON String blockRecord is: "nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d14441332WayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c63893DADDGBC2Randomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f45SDS53DAJulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullBruceLee456-789-123Vicodine1940.11.27ca66bSA4DS5ADBruceLee456-789-1231940.11.27SoreStomachLessCombatVicodinenullnullnullRitaVita1992.01.31TryToRelax6fcb191SGA213GRitaVita1992.01.31999-456-789ObessivePersonalityTryToRelaxnullnullnullWeiShinglesXubbd9f51GDCSA2CWeiXu1996.03.22123-456-333ShinglesnullnullnullSallyMcCutty123-456-999Almotriptan1970.01.01787e22S4A4CS3CSallyMcCutty123-456-9991970.01.01MigraineIcePackAlmotriptannull1nullRandomassignment115-334-123Exercise1995.09.17ba4e67S4SCSSAARandomassignment115-334-1231995.09.17InsomniaPillsExercise"
+0x0000 = 0
+0xFFFF = 65535
+
+Hash is: F60B61C0F289F6509491D4E105FE24DCD27C72F911AF7F6E55972E615BD00284
+First 16 bits in Hex and Decimal: F60B and 62987
+62987 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 8FBC97C17B3535E520CDE853FAD83ECFCBC127E229F11ED0CD4FA15A26DDA4B8
+First 16 bits in Hex and Decimal: 8FBC and 36796
+36796 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 8636C1E6416BE22E3FEAFF2397D63DD64D15FBBA6C84ABD480DE68473CA5B473
+First 16 bits in Hex and Decimal: 8636 and 34358
+34358 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 8F1588BDA53915CAE10440CE26257C859BB2DDDEC5486B395AF8DFA522084F18
+First 16 bits in Hex and Decimal: 8F15 and 36629
+36629 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 1E23BDFE1FBB1A5D745418354B8271E0E1E5EFB55BD82847ED69B400FC81A50E
+First 16 bits in Hex and Decimal: 1E23 and 7715
+7715 IS less than 20,000 so puzzle solved!
+The seed (puzzle answer) was: DS2DABSS
+Has the signature been verified: true
+
+Hexidecimal byte[] Representation of Original SHA256 Hash: f553da2019d9cebe5fa8775f07241e3a327b531b7a1b9ca9f2b4f9c41e712e62
+
+nullnullnullJoeDiMaggioRestFromSports1914.11.252cc14cDS2DABSSJoeDiMaggio1914.11.25111-22-3333SoreKneesRestFromSports
+=========> In WriteJSON <=========
+
+String blockRecord is: nullnullnullJoeDiMaggioRestFromSports1914.11.252cc14cDS2DABSSJoeDiMaggio1914.11.25111-22-3333SoreKneesRestFromSports
+
+JSON String blockRecord is: "nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d14441332WayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c63893DADDGBC2Randomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f45SDS53DAJulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullBruceLee456-789-123Vicodine1940.11.27ca66bSA4DS5ADBruceLee456-789-1231940.11.27SoreStomachLessCombatVicodinenullnullnullRitaVita1992.01.31TryToRelax6fcb191SGA213GRitaVita1992.01.31999-456-789ObessivePersonalityTryToRelaxnullnullnullWeiShinglesXubbd9f51GDCSA2CWeiXu1996.03.22123-456-333ShinglesnullnullnullSallyMcCutty123-456-999Almotriptan1970.01.01787e22S4A4CS3CSallyMcCutty123-456-9991970.01.01MigraineIcePackAlmotriptannull1nullRandomassignment115-334-123Exercise1995.09.17ba4e67S4SCSSAARandomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullJoeDiMaggioRestFromSports1914.11.252cc14cDS2DABSSJoeDiMaggio1914.11.25111-22-3333SoreKneesRestFromSports"
+0x0000 = 0
+0xFFFF = 65535
+
+Hash is: D75281C32B2B3AB968FB8B485389636F413777BD3C2EAF99BA4E4CEBE8F54F69
+First 16 bits in Hex and Decimal: D752 and 55122
+55122 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 20105E2CE66615481518DCAAF13F4F306443DB0FC90FB94B82626435F8A6D467
+First 16 bits in Hex and Decimal: 2010 and 8208
+8208 IS less than 20,000 so puzzle solved!
+The seed (puzzle answer) was: C3SBSCS5
+Has the signature been verified: true
+
+Hexidecimal byte[] Representation of Original SHA256 Hash: 3c910d4fc97e764d8c87ceb2b03dc8c6609d0bad5cdd299232fdc7f72b9c73f4
+
+nullnullnullHelenKeller666-45-6789Aspirin1880.06.277f8ef3C3SBSCS5HelenKeller666-45-67891880.06.27ArthritisWarmClothsAspirin
+=========> In WriteJSON <=========
+
+String blockRecord is: nullnullnullHelenKeller666-45-6789Aspirin1880.06.277f8ef3C3SBSCS5HelenKeller666-45-67891880.06.27ArthritisWarmClothsAspirin
+
+JSON String blockRecord is: "nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d14441332WayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c63893DADDGBC2Randomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f45SDS53DAJulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullBruceLee456-789-123Vicodine1940.11.27ca66bSA4DS5ADBruceLee456-789-1231940.11.27SoreStomachLessCombatVicodinenullnullnullRitaVita1992.01.31TryToRelax6fcb191SGA213GRitaVita1992.01.31999-456-789ObessivePersonalityTryToRelaxnullnullnullWeiShinglesXubbd9f51GDCSA2CWeiXu1996.03.22123-456-333ShinglesnullnullnullSallyMcCutty123-456-999Almotriptan1970.01.01787e22S4A4CS3CSallyMcCutty123-456-9991970.01.01MigraineIcePackAlmotriptannull1nullRandomassignment115-334-123Exercise1995.09.17ba4e67S4SCSSAARandomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullJoeDiMaggioRestFromSports1914.11.252cc14cDS2DABSSJoeDiMaggio1914.11.25111-22-3333SoreKneesRestFromSportsnullnullnullHelenKeller666-45-6789Aspirin1880.06.277f8ef3C3SBSCS5HelenKeller666-45-67891880.06.27ArthritisWarmClothsAspirin"
+[Helen verified by P0 at time ]
+         --NEW BLOCKCHAIN--
+
+nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d14441332WayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c63893DADDGBC2Randomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f45SDS53DAJulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullBruceLee456-789-123Vicodine1940.11.27ca66bSA4DS5ADBruceLee456-789-1231940.11.27SoreStomachLessCombatVicodinenullnullnullRitaVita1992.01.31TryToRelax6fcb191SGA213GRitaVita1992.01.31999-456-789ObessivePersonalityTryToRelaxnullnullnullWeiShinglesXubbd9f51GDCSA2CWeiXu1996.03.22123-456-333ShinglesnullnullnullSallyMcCutty123-456-999Almotriptan1970.01.01787e22S4A4CS3CSallyMcCutty123-456-9991970.01.01MigraineIcePackAlmotriptannull1nullRandomassignment115-334-123Exercise1995.09.17ba4e67S4SCSSAARandomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullJoeDiMaggioRestFromSports1914.11.252cc14cDS2DABSSJoeDiMaggio1914.11.25111-22-3333SoreKneesRestFromSportsnullnullnullHelenKeller666-45-6789Aspirin1880.06.277f8ef3C3SBSCS5HelenKeller666-45-67891880.06.27ArthritisWarmClothsAspirin
+
+
+0x0000 = 0
+0xFFFF = 65535
+
+Hash is: DF446190ADCA0C223E8EB614911BC1D93A94F8E0A830F0F091084C923562BEC6
+First 16 bits in Hex and Decimal: DF44 and 57156
+57156 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 4DD65E908CE4C9DCD454D957B58ECE590F5BBC361585339DF5F7788875F7B673
+First 16 bits in Hex and Decimal: 4DD6 and 19926
+19926 IS less than 20,000 so puzzle solved!
+The seed (puzzle answer) was: AAAASB22
+Has the signature been verified: true
+
+Hexidecimal byte[] Representation of Original SHA256 Hash: 4a0f51f03378c5db4e9481354cafaba70cadcc2e8156703d065e371b8a2bf17c
+
+nullnullnullAbrahamLincoln444-45-6888Whiskey1809.02.12f21749AAAASB22AbrahamLincoln444-45-68881809.02.12GreviousWoundSurgeryWhiskey
+=========> In WriteJSON <=========
+
+String blockRecord is: nullnullnullAbrahamLincoln444-45-6888Whiskey1809.02.12f21749AAAASB22AbrahamLincoln444-45-68881809.02.12GreviousWoundSurgeryWhiskey
+
+JSON String blockRecord is: "nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d14441332WayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c63893DADDGBC2Randomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f45SDS53DAJulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullBruceLee456-789-123Vicodine1940.11.27ca66bSA4DS5ADBruceLee456-789-1231940.11.27SoreStomachLessCombatVicodinenullnullnullRitaVita1992.01.31TryToRelax6fcb191SGA213GRitaVita1992.01.31999-456-789ObessivePersonalityTryToRelaxnullnullnullWeiShinglesXubbd9f51GDCSA2CWeiXu1996.03.22123-456-333ShinglesnullnullnullSallyMcCutty123-456-999Almotriptan1970.01.01787e22S4A4CS3CSallyMcCutty123-456-9991970.01.01MigraineIcePackAlmotriptannull1nullRandomassignment115-334-123Exercise1995.09.17ba4e67S4SCSSAARandomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullJoeDiMaggioRestFromSports1914.11.252cc14cDS2DABSSJoeDiMaggio1914.11.25111-22-3333SoreKneesRestFromSportsnullnullnullHelenKeller666-45-6789Aspirin1880.06.277f8ef3C3SBSCS5HelenKeller666-45-67891880.06.27ArthritisWarmClothsAspirinnullnullnullAbrahamLincoln444-45-6888Whiskey1809.02.12f21749AAAASB22AbrahamLincoln444-45-68881809.02.12GreviousWoundSurgeryWhiskey"
+[Abraham verified by P0 at time ]
+         --NEW BLOCKCHAIN--
+
+nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d14441332WayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c63893DADDGBC2Randomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f45SDS53DAJulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullBruceLee456-789-123Vicodine1940.11.27ca66bSA4DS5ADBruceLee456-789-1231940.11.27SoreStomachLessCombatVicodinenullnullnullRitaVita1992.01.31TryToRelax6fcb191SGA213GRitaVita1992.01.31999-456-789ObessivePersonalityTryToRelaxnullnullnullWeiShinglesXubbd9f51GDCSA2CWeiXu1996.03.22123-456-333ShinglesnullnullnullSallyMcCutty123-456-999Almotriptan1970.01.01787e22S4A4CS3CSallyMcCutty123-456-9991970.01.01MigraineIcePackAlmotriptannull1nullRandomassignment115-334-123Exercise1995.09.17ba4e67S4SCSSAARandomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullJoeDiMaggioRestFromSports1914.11.252cc14cDS2DABSSJoeDiMaggio1914.11.25111-22-3333SoreKneesRestFromSportsnullnullnullHelenKeller666-45-6789Aspirin1880.06.277f8ef3C3SBSCS5HelenKeller666-45-67891880.06.27ArthritisWarmClothsAspirinnullnullnullAbrahamLincoln444-45-6888Whiskey1809.02.12f21749AAAASB22AbrahamLincoln444-45-68881809.02.12GreviousWoundSurgeryWhiskey
+
+
+0x0000 = 0
+0xFFFF = 65535
+
+Hash is: D4F63D0FA35F28110888AE59C6A7A158D5A4FE04199C543A992B8D1E628BF845
+First 16 bits in Hex and Decimal: D4F6 and 54518
+54518 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 5D54B47CAB5FFF3FF2A9BEE70DA0E42755B29F068167B6951151D23D6DDAC28F
+First 16 bits in Hex and Decimal: 5D54 and 23892
+23892 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 655AA0C90886DBF0081AB23ADECDCD98F014A58760F5A290B6A7A3E2300EB38B
+First 16 bits in Hex and Decimal: 655A and 25946
+25946 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 9ABD2F56A7457A34F1517878C2269FD7E3FA77DE25B03F61F8D53A37929499B5
+First 16 bits in Hex and Decimal: 9ABD and 39613
+39613 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 62106FFF23687540E24A4B357DBFB9CDC07A2065712C6207DCF995BE36ADD6D0
+First 16 bits in Hex and Decimal: 6210 and 25104
+25104 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: B5E7C60470E37D30BB11536E3113908868366C527F9B9E744C182F1FFD8AD2C8
+First 16 bits in Hex and Decimal: B5E7 and 46567
+46567 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: DB181BDACE2BEF8FBCA127B16FFE23F7DB1CE099E7EB1B53F366FDFDEFB86322
+First 16 bits in Hex and Decimal: DB18 and 56088
+56088 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 12A3798370A5601CDBBFC1D1EC869A73E1F9FBF2E6DEBD0FE90D0C97D3F938CA
+First 16 bits in Hex and Decimal: 12A3 and 4771
+4771 IS less than 20,000 so puzzle solved!
+The seed (puzzle answer) was: 1SAAA41A
+Has the signature been verified: true
+
+Hexidecimal byte[] Representation of Original SHA256 Hash: fbd1dcafea8de2f391a26faaa5f766b74f5d8afddd520e2d841fe0f0874c24fc
+
+nullnullnullJohnKennedyDrugTherapy1917.05.291392c01SAAA41AJohnKennedy1917.05.29333-45-6999AddisonsDiseaseDrugTherapy
+=========> In WriteJSON <=========
+
+String blockRecord is: nullnullnullJohnKennedyDrugTherapy1917.05.291392c01SAAA41AJohnKennedy1917.05.29333-45-6999AddisonsDiseaseDrugTherapy
+
+JSON String blockRecord is: "nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d14441332WayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c63893DADDGBC2Randomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f45SDS53DAJulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullBruceLee456-789-123Vicodine1940.11.27ca66bSA4DS5ADBruceLee456-789-1231940.11.27SoreStomachLessCombatVicodinenullnullnullRitaVita1992.01.31TryToRelax6fcb191SGA213GRitaVita1992.01.31999-456-789ObessivePersonalityTryToRelaxnullnullnullWeiShinglesXubbd9f51GDCSA2CWeiXu1996.03.22123-456-333ShinglesnullnullnullSallyMcCutty123-456-999Almotriptan1970.01.01787e22S4A4CS3CSallyMcCutty123-456-9991970.01.01MigraineIcePackAlmotriptannull1nullRandomassignment115-334-123Exercise1995.09.17ba4e67S4SCSSAARandomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullJoeDiMaggioRestFromSports1914.11.252cc14cDS2DABSSJoeDiMaggio1914.11.25111-22-3333SoreKneesRestFromSportsnullnullnullHelenKeller666-45-6789Aspirin1880.06.277f8ef3C3SBSCS5HelenKeller666-45-67891880.06.27ArthritisWarmClothsAspirinnullnullnullAbrahamLincoln444-45-6888Whiskey1809.02.12f21749AAAASB22AbrahamLincoln444-45-68881809.02.12GreviousWoundSurgeryWhiskeynullnullnullJohnKennedyDrugTherapy1917.05.291392c01SAAA41AJohnKennedy1917.05.29333-45-6999AddisonsDiseaseDrugTherapy"
+0x0000 = 0
+0xFFFF = 65535
+
+Hash is: 25B0EEF66B444C53E020B4C01582A3C62F4A0D86E551607F820C16173391E02F
+First 16 bits in Hex and Decimal: 25B0 and 9648
+9648 IS less than 20,000 so puzzle solved!
+The seed (puzzle answer) was: GDSDS1BS
+Has the signature been verified: true
+
+Hexidecimal byte[] Representation of Original SHA256 Hash: b3ebfb8bc7c1b43ab3035311562ad88df87a183c8b69bb8305b948d8eeb93b7a
+
+null2nullRandomassignment115-334-123Exercise1995.09.17a68df6GDSDS1BSRandomassignment115-334-1231995.09.17InsomniaPillsExercise
+=========> In WriteJSON <=========
+
+String blockRecord is: null2nullRandomassignment115-334-123Exercise1995.09.17a68df6GDSDS1BSRandomassignment115-334-1231995.09.17InsomniaPillsExercise
+
+JSON String blockRecord is: "nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d14441332WayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c63893DADDGBC2Randomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f45SDS53DAJulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullBruceLee456-789-123Vicodine1940.11.27ca66bSA4DS5ADBruceLee456-789-1231940.11.27SoreStomachLessCombatVicodinenullnullnullRitaVita1992.01.31TryToRelax6fcb191SGA213GRitaVita1992.01.31999-456-789ObessivePersonalityTryToRelaxnullnullnullWeiShinglesXubbd9f51GDCSA2CWeiXu1996.03.22123-456-333ShinglesnullnullnullSallyMcCutty123-456-999Almotriptan1970.01.01787e22S4A4CS3CSallyMcCutty123-456-9991970.01.01MigraineIcePackAlmotriptannull1nullRandomassignment115-334-123Exercise1995.09.17ba4e67S4SCSSAARandomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullJoeDiMaggioRestFromSports1914.11.252cc14cDS2DABSSJoeDiMaggio1914.11.25111-22-3333SoreKneesRestFromSportsnullnullnullHelenKeller666-45-6789Aspirin1880.06.277f8ef3C3SBSCS5HelenKeller666-45-67891880.06.27ArthritisWarmClothsAspirinnullnullnullAbrahamLincoln444-45-6888Whiskey1809.02.12f21749AAAASB22AbrahamLincoln444-45-68881809.02.12GreviousWoundSurgeryWhiskeynullnullnullJohnKennedyDrugTherapy1917.05.291392c01SAAA41AJohnKennedy1917.05.29333-45-6999AddisonsDiseaseDrugTherapynull2nullRandomassignment115-334-123Exercise1995.09.17a68df6GDSDS1BSRandomassignment115-334-1231995.09.17InsomniaPillsExercise"
+
+
+Process 1 :
+
+
+"C:\Program Files\Java\jdk-13.0.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Educational Edition 2020.2.1\lib\idea_rt.jar=53897:C:\Program Files\JetBrains\IntelliJ IDEA Educational Edition 2020.2.1\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\srina\IdeaProjects\BlockA\out\production\BlockA;C:\Users\srina\Desktop\DistributedSystems\Blockchain\gson-2.8.2.jar BlockChain 1
+
+Process1 is starting up : 
+
+size of the list of records is : []
+Starting Key Server input thread using 4611
+Starting the Unverified Block Server input thread using 4711
+Starting the Blockchain server input thread using 4811
+Got key: KeyProcess0
+Got key: KeyProcess1
+Got key: KeyProcess2
+
+JSON String blockRecord is: {
+  "VerificationProcessID": "1",
+  "uuid": "8b21ef14-d482-45cd-b7e5-ccbf13f0fc11",
+  "Fname": "Random",
+  "Lname": "assignment",
+  "SSNum": "115-334-123",
+  "DOB": "1995.09.17",
+  "Diag": "Insomnia",
+  "Treat": "Pills",
+  "Rx": "Exercise",
+  "RandomSeed": "ba4e67",
+  "WinningHash": "4997a188927fd1a03484636ac2bd0a6e0d0dbe16403ba9674972744f91a1dcf2",
+  "TimeStamp": " 2020-11-04.22:42:11.1"
+}
+4 records read.
+
+Records in the linked list:
+ 2020-11-04.22:42:11.1 Random assignment
+ 2020-11-04.22:42:11.1 Rita Vita
+ 2020-11-04.22:42:11.1 Wei 
+ 2020-11-04.22:42:11.1 Sally McCutty
+ 2020-11-04.22:42:11.1 Bruce Lee
+
+The shuffled list:
+ 2020-11-04.22:42:11.1 Bruce Lee
+ 2020-11-04.22:42:11.1 Wei 
+ 2020-11-04.22:42:11.1 Rita Vita
+ 2020-11-04.22:42:11.1 Random assignment
+ 2020-11-04.22:42:11.1 Sally McCutty
+
+Placing shuffled records in our priority queue...
+
+Priority Queue (restored) Order:
+ 2020-11-04.22:42:11.1 Bruce Lee
+ 2020-11-04.22:42:11.1 Sally McCutty
+ 2020-11-04.22:42:11.1 Random assignment
+ 2020-11-04.22:42:11.1 Rita Vita
+ 2020-11-04.22:42:11.1 Wei 
+
+
+
+Recoreded list is of the size : [BlockRecord@5594a1b5, BlockRecord@6a5fc7f7, BlockRecord@3b6eb2ec, BlockRecord@1e643faf, BlockRecord@6e8dacdf]
+Sending UVBs to process 0...
+Received UVB:  2020-11-04.22:42:10.0  2020-11-04.22:42:10.0 John Smith
+Received UVB:  2020-11-04.22:42:10.0  2020-11-04.22:42:10.0 Julie Wilson
+Sending UVBs to process 1...
+Received UVB:  2020-11-04.22:42:11.1  2020-11-04.22:42:11.1 Sally McCutty
+Received UVB:  2020-11-04.22:42:10.0  2020-11-04.22:42:10.0 Joe 
+Received UVB:  2020-11-04.22:42:10.0  2020-11-04.22:42:10.0 Wayne Blaine
+Received UVB:  2020-11-04.22:42:10.0  2020-11-04.22:42:10.0 Random assignment
+Received UVB:  2020-11-04.22:42:11.1  2020-11-04.22:42:11.1 Random assignment
+Received UVB:  2020-11-04.22:42:11.1  2020-11-04.22:42:11.1 Bruce Lee
+Received UVB:  2020-11-04.22:42:11.1  2020-11-04.22:42:11.1 Rita Vita
+Received UVB:  2020-11-04.22:42:13.2  2020-11-04.22:42:13.2 Abraham Lincoln
+Received UVB:  2020-11-04.22:42:13.2  2020-11-04.22:42:13.2 Joe DiMaggio
+Received UVB:  2020-11-04.22:42:13.2  2020-11-04.22:42:13.2 Random assignment
+Sending UVBs to process 2...
+Received UVB:  2020-11-04.22:42:11.1  2020-11-04.22:42:11.1 Wei 
+Received UVB:  2020-11-04.22:42:13.2  2020-11-04.22:42:13.2 Helen Keller
+Received UVB:  2020-11-04.22:42:13.2  2020-11-04.22:42:13.2 John Kennedy
+         --NEW BLOCKCHAIN--
+
+nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888Smallpox
+
+
+         --NEW BLOCKCHAIN--
+
+nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirin
+
+
+Starting the Unverified Block Priority Queue Consumer thread.
+
+0x0000 = 0
+0xFFFF = 65535
+
+Hash is: E1E40509DF1A305EFFD7C98F214E386C1B346B6A66EF184D9E98B5BAD1B87D59
+First 16 bits in Hex and Decimal: E1E4 and 57828
+57828 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 1318C8FEA263E2418C84C6A5B98A84749290E441136B8A61428674523C2DC151
+First 16 bits in Hex and Decimal: 1318 and 4888
+4888 IS less than 20,000 so puzzle solved!
+The seed (puzzle answer) was: C1DADAS1
+Has the signature been verified: true
+
+Hexidecimal byte[] Representation of Original SHA256 Hash: 1766577c5008a0b60a81f2bd1f29619cff732f21993c2e4daeb354982bb7d398
+
+nullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44C1DADAS1JohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirin
+=========> In WriteJSON <=========
+
+String blockRecord is: nullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44C1DADAS1JohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirin
+
+JSON String blockRecord is: "\nnullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44C1DADAS1JohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirin"
+         --NEW BLOCKCHAIN--
+
+nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d14441332WayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOil
+
+
+0x0000 = 0
+0xFFFF = 65535
+
+Hash is: D061ADF3DF4F52CE9753A3FF7FF9A4E1E106C5CFD1E6591157DF8FADA5191967
+First 16 bits in Hex and Decimal: D061 and 53345
+53345 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 6BA034B224AB68584F3BCB9B5C091CEC987BE1B9D1EBA88EA5338D3ABFE14398
+First 16 bits in Hex and Decimal: 6BA0 and 27552
+27552 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 70B249B4893F3E23570663893F750B2E89A768AA1958A7647512A171DED1963D
+First 16 bits in Hex and Decimal: 70B2 and 28850
+28850 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: EBA0EF47FA1DC1F125BA55BD190CFA54FFBCDDBE0F5832C0E01BBA0AA031C5C8
+First 16 bits in Hex and Decimal: EBA0 and 60320
+60320 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: C6EFAE87711CE568747246B78C5B22C2F25F0179F965D0BA1CE1CEB31677A4AE
+First 16 bits in Hex and Decimal: C6EF and 50927
+50927 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: EAA9D60178278BDD7023800A91ACB945FD37B024493E27D5BA9FA67173877F92
+First 16 bits in Hex and Decimal: EAA9 and 60073
+60073 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 023A6AB36EA64CD13EE4CD19243F3174A7EABE719E4E555D525F0ACA03661330
+First 16 bits in Hex and Decimal: 023A and 570
+570 IS less than 20,000 so puzzle solved!
+The seed (puzzle answer) was: ADB11GD3
+Has the signature been verified: true
+
+Hexidecimal byte[] Representation of Original SHA256 Hash: 10c8e2efb55dff472c0ed010f8713b1fc6407ab48079701715f639ec2fdfd5ac
+
+nullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4ADB11GD3JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppers
+=========> In WriteJSON <=========
+
+String blockRecord is: nullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4ADB11GD3JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppers
+
+JSON String blockRecord is: "\nnullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44C1DADAS1JohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4ADB11GD3JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppers"
+[Julie verified by P1 at time ]
+         --NEW BLOCKCHAIN--
+
+
+nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44C1DADAS1JohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4ADB11GD3JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppers
+
+
+         --NEW BLOCKCHAIN--
+
+nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d14441332WayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c63893DADDGBC2Randomassignment115-334-1231995.09.17InsomniaPillsExercise
+
+
+0x0000 = 0
+0xFFFF = 65535
+
+Hash is: 2FAE8A18CD7B2B9EE4A71CF1E351DB5673815026BE2CC0DA1204E8D9A6E342E4
+First 16 bits in Hex and Decimal: 2FAE and 12206
+12206 IS less than 20,000 so puzzle solved!
+The seed (puzzle answer) was: AB4AC4GA
+Has the signature been verified: true
+
+Hexidecimal byte[] Representation of Original SHA256 Hash: d68573639cff1c99a2e24fdc04b511e8ba0aec7a40181acfe2b39c94788057cb
+
+nullnullnullJoeSmallpoxBlow52bd9fAB4AC4GAJoeBlow1996.03.07123-45-6888Smallpox
+=========> In WriteJSON <=========
+
+String blockRecord is: nullnullnullJoeSmallpoxBlow52bd9fAB4AC4GAJoeBlow1996.03.07123-45-6888Smallpox
+
+JSON String blockRecord is: "\nnullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44C1DADAS1JohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4ADB11GD3JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullJoeSmallpoxBlow52bd9fAB4AC4GAJoeBlow1996.03.07123-45-6888Smallpox"
+         --NEW BLOCKCHAIN--
+
+
+
+nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44C1DADAS1JohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4ADB11GD3JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44S2SBDB3DJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4A4AAA353JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppers
+
+
+0x0000 = 0
+0xFFFF = 65535
+
+Hash is: A84B5667527C870E918070D0AB70004131C1DC8285CB3DE545F38D134E37FEF8
+First 16 bits in Hex and Decimal: A84B and 43083
+43083 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 44390E2F1C47C4D84BF323D8AAF5B99DC80B6E9544441606044DFAB1D1082007
+First 16 bits in Hex and Decimal: 4439 and 17465
+17465 IS less than 20,000 so puzzle solved!
+The seed (puzzle answer) was: 4321422A
+Has the signature been verified: true
+
+Hexidecimal byte[] Representation of Original SHA256 Hash: e8deef1122715855743061fc286ef50fa67290a0a910c19f4b33234c8f8268f2
+
+nullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d4321422AWayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOil
+=========> In WriteJSON <=========
+
+String blockRecord is: nullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d4321422AWayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOil
+
+JSON String blockRecord is: "\nnullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44C1DADAS1JohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4ADB11GD3JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullJoeSmallpoxBlow52bd9fAB4AC4GAJoeBlow1996.03.07123-45-6888SmallpoxnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d4321422AWayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOil"
+[Wayne verified by P1 at time ]
+         --NEW BLOCKCHAIN--
+
+
+nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44C1DADAS1JohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4ADB11GD3JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullJoeSmallpoxBlow52bd9fAB4AC4GAJoeBlow1996.03.07123-45-6888SmallpoxnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d4321422AWayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOil
+
+
+         --NEW BLOCKCHAIN--
+
+nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d14441332WayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c63893DADDGBC2Randomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f45SDS53DAJulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullBruceLee456-789-123Vicodine1940.11.27ca66bSA4DS5ADBruceLee456-789-1231940.11.27SoreStomachLessCombatVicodine
+
+
+0x0000 = 0
+0xFFFF = 65535
+
+Hash is: DAD11BB3622A74D2E751F48BAF0992FAC9286395CE8F03BB72585EC1ECBDCF28
+First 16 bits in Hex and Decimal: DAD1 and 56017
+56017 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: ED05CBD3E840DBB14C9A2E7EBC910C86660867E9D7284F915F0A28EA49661B92
+First 16 bits in Hex and Decimal: ED05 and 60677
+60677 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 6304CD23DD3B65520E5BB89A34E10B6D4B1D4FBD1C55156A7A6465C86B52F4E2
+First 16 bits in Hex and Decimal: 6304 and 25348
+25348 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 5585784586E7A67960C0C993DDD8C6CF5D274A281C7436868E8E5EF71AC6DEDB
+First 16 bits in Hex and Decimal: 5585 and 21893
+21893 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 0D3C58A5FA44F6AC169EE8A7CB7EEF92F1C8FC48EE175ABBA89F3A423F774EA3
+First 16 bits in Hex and Decimal: 0D3C and 3388
+3388 IS less than 20,000 so puzzle solved!
+The seed (puzzle answer) was: 1215D1SA
+Has the signature been verified: true
+
+Hexidecimal byte[] Representation of Original SHA256 Hash: eef19a2a549344db11e2a21d6c119f77d757b007d49d288cddac36b8db123b2b
+
+null0nullRandomassignment115-334-123Exercise1995.09.17c638931215D1SARandomassignment115-334-1231995.09.17InsomniaPillsExercise
+=========> In WriteJSON <=========
+
+String blockRecord is: null0nullRandomassignment115-334-123Exercise1995.09.17c638931215D1SARandomassignment115-334-1231995.09.17InsomniaPillsExercise
+
+JSON String blockRecord is: "\nnullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44C1DADAS1JohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4ADB11GD3JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullJoeSmallpoxBlow52bd9fAB4AC4GAJoeBlow1996.03.07123-45-6888SmallpoxnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d4321422AWayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c638931215D1SARandomassignment115-334-1231995.09.17InsomniaPillsExercise"
+         --NEW BLOCKCHAIN--
+
+nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d14441332WayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c63893DADDGBC2Randomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f45SDS53DAJulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullBruceLee456-789-123Vicodine1940.11.27ca66bSA4DS5ADBruceLee456-789-1231940.11.27SoreStomachLessCombatVicodinenullnullnullRitaVita1992.01.31TryToRelax6fcb191SGA213GRitaVita1992.01.31999-456-789ObessivePersonalityTryToRelax
+
+
+0x0000 = 0
+0xFFFF = 65535
+
+Hash is: BC78CAEA4F9510FEBCD52F7CAAE99B7A2C1DA2B0405153DD70C1798CBE8FC95C
+First 16 bits in Hex and Decimal: BC78 and 48248
+48248 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 72A50DBDE382F8EA566FE0C53A09B0A08EA54CC5DF1DA473EC7158477B80E7D3
+First 16 bits in Hex and Decimal: 72A5 and 29349
+29349 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: F55C1335CEE063B301E8610A2CEE451EE41589E0F336E1C5E0E793348386BCFE
+First 16 bits in Hex and Decimal: F55C and 62812
+62812 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: FD9F215D3476A95DF05D0B58600CBBE0E07CEF06278444B0E34A9B09D80D1200
+First 16 bits in Hex and Decimal: FD9F and 64927
+64927 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 66921FA9103A2349ADA306499AA778F844200E2CCDF72BBD3A587FEA6FF2D397
+First 16 bits in Hex and Decimal: 6692 and 26258
+26258 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 36E0EDFD7C08468FF6BDF1F15FA002A35C8601C407147D77F3CE1F55EB1CAA4C
+First 16 bits in Hex and Decimal: 36E0 and 14048
+14048 IS less than 20,000 so puzzle solved!
+The seed (puzzle answer) was: 5D1GA12S
+Has the signature been verified: true
+
+Hexidecimal byte[] Representation of Original SHA256 Hash: fab5234528ba32c3e195631f8fc7da415f5579c4fe23a318a1ca22a89e095d7e
+
+nullnullnullWeiShinglesXubbd9f55D1GA12SWeiXu1996.03.22123-456-333Shingles
+=========> In WriteJSON <=========
+
+String blockRecord is: nullnullnullWeiShinglesXubbd9f55D1GA12SWeiXu1996.03.22123-456-333Shingles
+
+JSON String blockRecord is: "\nnullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44C1DADAS1JohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4ADB11GD3JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullJoeSmallpoxBlow52bd9fAB4AC4GAJoeBlow1996.03.07123-45-6888SmallpoxnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d4321422AWayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c638931215D1SARandomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullWeiShinglesXubbd9f55D1GA12SWeiXu1996.03.22123-456-333Shingles"
+[Wei verified by P1 at time ]
+         --NEW BLOCKCHAIN--
+
+
+nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44C1DADAS1JohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4ADB11GD3JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullJoeSmallpoxBlow52bd9fAB4AC4GAJoeBlow1996.03.07123-45-6888SmallpoxnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d4321422AWayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c638931215D1SARandomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullWeiShinglesXubbd9f55D1GA12SWeiXu1996.03.22123-456-333Shingles
+
+
+0x0000 = 0
+0xFFFF = 65535
+
+Hash is: 4F63F50BFA85D835774ED3E87870A3371E066BF0D287728C9C66F99B567253B1
+First 16 bits in Hex and Decimal: 4F63 and 20323
+20323 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 9E5598892DF167C5C2CBDDCE2F8FDDE3EC6CE311C261BA26288DC296CB5DF9F2
+First 16 bits in Hex and Decimal: 9E55 and 40533
+40533 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 0A18C1C6F67083BF0BAAC6FF394E24CC2421BDCAA906C10DADE5722F5D6BE92B
+First 16 bits in Hex and Decimal: 0A18 and 2584
+2584 IS less than 20,000 so puzzle solved!
+The seed (puzzle answer) was: 115SSD21
+Has the signature been verified: true
+
+Hexidecimal byte[] Representation of Original SHA256 Hash: f13cdc9e665b394561d2ae538b5bbeb5f0fe15d9f56d246d31d4086671134d84
+
+nullnullnullBruceLee456-789-123Vicodine1940.11.27ca66b115SSD21BruceLee456-789-1231940.11.27SoreStomachLessCombatVicodine
+=========> In WriteJSON <=========
+
+String blockRecord is: nullnullnullBruceLee456-789-123Vicodine1940.11.27ca66b115SSD21BruceLee456-789-1231940.11.27SoreStomachLessCombatVicodine
+
+JSON String blockRecord is: "\nnullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44C1DADAS1JohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4ADB11GD3JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullJoeSmallpoxBlow52bd9fAB4AC4GAJoeBlow1996.03.07123-45-6888SmallpoxnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d4321422AWayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c638931215D1SARandomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullWeiShinglesXubbd9f55D1GA12SWeiXu1996.03.22123-456-333ShinglesnullnullnullBruceLee456-789-123Vicodine1940.11.27ca66b115SSD21BruceLee456-789-1231940.11.27SoreStomachLessCombatVicodine"
+[Bruce verified by P1 at time ]
+         --NEW BLOCKCHAIN--
+
+
+nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44C1DADAS1JohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4ADB11GD3JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullJoeSmallpoxBlow52bd9fAB4AC4GAJoeBlow1996.03.07123-45-6888SmallpoxnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d4321422AWayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c638931215D1SARandomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullWeiShinglesXubbd9f55D1GA12SWeiXu1996.03.22123-456-333ShinglesnullnullnullBruceLee456-789-123Vicodine1940.11.27ca66b115SSD21BruceLee456-789-1231940.11.27SoreStomachLessCombatVicodine
+
+
+         --NEW BLOCKCHAIN--
+
+nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d14441332WayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c63893DADDGBC2Randomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f45SDS53DAJulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullBruceLee456-789-123Vicodine1940.11.27ca66bSA4DS5ADBruceLee456-789-1231940.11.27SoreStomachLessCombatVicodinenullnullnullRitaVita1992.01.31TryToRelax6fcb191SGA213GRitaVita1992.01.31999-456-789ObessivePersonalityTryToRelaxnullnullnullWeiShinglesXubbd9f51GDCSA2CWeiXu1996.03.22123-456-333ShinglesnullnullnullSallyMcCutty123-456-999Almotriptan1970.01.01787e22S4A4CS3CSallyMcCutty123-456-9991970.01.01MigraineIcePackAlmotriptan
+
+
+0x0000 = 0
+0xFFFF = 65535
+
+Hash is: BE1292ABA34C868D563F51B3E2763B4E3A65C49BE5F77482F15643978C82B925
+First 16 bits in Hex and Decimal: BE12 and 48658
+48658 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 84A19C79508CBC9014C4D465390D6557BA7B5A4FB6411F6F6C04E3F771CB3BE9
+First 16 bits in Hex and Decimal: 84A1 and 33953
+33953 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: C5D6470A38E7DE66A47A84BC9AFFD7DCF19E29D839E96A9A53895D89A2967BD1
+First 16 bits in Hex and Decimal: C5D6 and 50646
+50646 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: E35FE5DDC54A46F3857BEA4FE47FD6011DB46CC1E02642DD36E92D182AD84059
+First 16 bits in Hex and Decimal: E35F and 58207
+58207 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 4D28FAA212CDC5D5E291E7FA3BE4463A5BD831F2C0F10596EDCDEA12C3BB9FB8
+First 16 bits in Hex and Decimal: 4D28 and 19752
+19752 IS less than 20,000 so puzzle solved!
+The seed (puzzle answer) was: CA544SAD
+Has the signature been verified: true
+
+Hexidecimal byte[] Representation of Original SHA256 Hash: 5c38e3751be6df96426b67aa4e2f6dbc6952158841e87b73b9bfac2a0c36989b
+
+nullnullnullRitaVita1992.01.31TryToRelax6fcb19CA544SADRitaVita1992.01.31999-456-789ObessivePersonalityTryToRelax
+=========> In WriteJSON <=========
+
+String blockRecord is: nullnullnullRitaVita1992.01.31TryToRelax6fcb19CA544SADRitaVita1992.01.31999-456-789ObessivePersonalityTryToRelax
+
+JSON String blockRecord is: "\nnullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44C1DADAS1JohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4ADB11GD3JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullJoeSmallpoxBlow52bd9fAB4AC4GAJoeBlow1996.03.07123-45-6888SmallpoxnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d4321422AWayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c638931215D1SARandomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullWeiShinglesXubbd9f55D1GA12SWeiXu1996.03.22123-456-333ShinglesnullnullnullBruceLee456-789-123Vicodine1940.11.27ca66b115SSD21BruceLee456-789-1231940.11.27SoreStomachLessCombatVicodinenullnullnullRitaVita1992.01.31TryToRelax6fcb19CA544SADRitaVita1992.01.31999-456-789ObessivePersonalityTryToRelax"
+0x0000 = 0
+0xFFFF = 65535
+
+Hash is: 3566FADD41F40AF76AD42F3DA9B366D4F3FF1731A4B6A73AF9022CA3EB522DE4
+First 16 bits in Hex and Decimal: 3566 and 13670
+13670 IS less than 20,000 so puzzle solved!
+The seed (puzzle answer) was: SGD2DA11
+Has the signature been verified: true
+
+Hexidecimal byte[] Representation of Original SHA256 Hash: fd72dfac03838fbcee5e35a4575afa01792b25fb2c646a603bbdb12ce5b7f2f4
+
+nullnullnullSallyMcCutty123-456-999Almotriptan1970.01.01787e22SGD2DA11SallyMcCutty123-456-9991970.01.01MigraineIcePackAlmotriptan
+=========> In WriteJSON <=========
+
+String blockRecord is: nullnullnullSallyMcCutty123-456-999Almotriptan1970.01.01787e22SGD2DA11SallyMcCutty123-456-9991970.01.01MigraineIcePackAlmotriptan
+
+JSON String blockRecord is: "\nnullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44C1DADAS1JohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4ADB11GD3JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullJoeSmallpoxBlow52bd9fAB4AC4GAJoeBlow1996.03.07123-45-6888SmallpoxnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d4321422AWayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c638931215D1SARandomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullWeiShinglesXubbd9f55D1GA12SWeiXu1996.03.22123-456-333ShinglesnullnullnullBruceLee456-789-123Vicodine1940.11.27ca66b115SSD21BruceLee456-789-1231940.11.27SoreStomachLessCombatVicodinenullnullnullRitaVita1992.01.31TryToRelax6fcb19CA544SADRitaVita1992.01.31999-456-789ObessivePersonalityTryToRelaxnullnullnullSallyMcCutty123-456-999Almotriptan1970.01.01787e22SGD2DA11SallyMcCutty123-456-9991970.01.01MigraineIcePackAlmotriptan"
+0x0000 = 0
+0xFFFF = 65535
+
+Hash is: 37FA6A131C93750C4553A9B9B9955515205573F28E23CF83101731DA831A6343
+First 16 bits in Hex and Decimal: 37FA and 14330
+14330 IS less than 20,000 so puzzle solved!
+The seed (puzzle answer) was: SB1SA5DA
+Has the signature been verified: true
+
+Hexidecimal byte[] Representation of Original SHA256 Hash: bf50cccfdaae9443529f9c687e25b9fdbe68434af94729f0a9be44cee9a16810
+
+null1nullRandomassignment115-334-123Exercise1995.09.17ba4e67SB1SA5DARandomassignment115-334-1231995.09.17InsomniaPillsExercise
+=========> In WriteJSON <=========
+
+String blockRecord is: null1nullRandomassignment115-334-123Exercise1995.09.17ba4e67SB1SA5DARandomassignment115-334-1231995.09.17InsomniaPillsExercise
+
+JSON String blockRecord is: "\nnullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44C1DADAS1JohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4ADB11GD3JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullJoeSmallpoxBlow52bd9fAB4AC4GAJoeBlow1996.03.07123-45-6888SmallpoxnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d4321422AWayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c638931215D1SARandomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullWeiShinglesXubbd9f55D1GA12SWeiXu1996.03.22123-456-333ShinglesnullnullnullBruceLee456-789-123Vicodine1940.11.27ca66b115SSD21BruceLee456-789-1231940.11.27SoreStomachLessCombatVicodinenullnullnullRitaVita1992.01.31TryToRelax6fcb19CA544SADRitaVita1992.01.31999-456-789ObessivePersonalityTryToRelaxnullnullnullSallyMcCutty123-456-999Almotriptan1970.01.01787e22SGD2DA11SallyMcCutty123-456-9991970.01.01MigraineIcePackAlmotriptannull1nullRandomassignment115-334-123Exercise1995.09.17ba4e67SB1SA5DARandomassignment115-334-1231995.09.17InsomniaPillsExercise"
+         --NEW BLOCKCHAIN--
+
+nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d14441332WayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c63893DADDGBC2Randomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f45SDS53DAJulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullBruceLee456-789-123Vicodine1940.11.27ca66bSA4DS5ADBruceLee456-789-1231940.11.27SoreStomachLessCombatVicodinenullnullnullRitaVita1992.01.31TryToRelax6fcb191SGA213GRitaVita1992.01.31999-456-789ObessivePersonalityTryToRelaxnullnullnullWeiShinglesXubbd9f51GDCSA2CWeiXu1996.03.22123-456-333ShinglesnullnullnullSallyMcCutty123-456-999Almotriptan1970.01.01787e22S4A4CS3CSallyMcCutty123-456-9991970.01.01MigraineIcePackAlmotriptannull1nullRandomassignment115-334-123Exercise1995.09.17ba4e67S4SCSSAARandomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullJoeDiMaggioRestFromSports1914.11.252cc14cDS2DABSSJoeDiMaggio1914.11.25111-22-3333SoreKneesRestFromSportsnullnullnullHelenKeller666-45-6789Aspirin1880.06.277f8ef3C3SBSCS5HelenKeller666-45-67891880.06.27ArthritisWarmClothsAspirin
+
+
+0x0000 = 0
+0xFFFF = 65535
+
+Hash is: 54DDEB07A2F612C2AC58C62082D2CF01E89F8461CD8DE4EE9B927EBCDEF3C44B
+First 16 bits in Hex and Decimal: 54DD and 21725
+21725 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 32FF49D75E10E8752263331C57EEF31EDF0DB0FCE37AF8E80110BEA3B1B2B545
+First 16 bits in Hex and Decimal: 32FF and 13055
+13055 IS less than 20,000 so puzzle solved!
+The seed (puzzle answer) was: BDSG55DC
+Has the signature been verified: true
+
+Hexidecimal byte[] Representation of Original SHA256 Hash: b4a95525a2c4b1bf1436f6a2bed0a582233a8a6afdff1bd2e1007842fb6e580a
+
+null2nullRandomassignment115-334-123Exercise1995.09.17a68df6BDSG55DCRandomassignment115-334-1231995.09.17InsomniaPillsExercise
+=========> In WriteJSON <=========
+
+String blockRecord is: null2nullRandomassignment115-334-123Exercise1995.09.17a68df6BDSG55DCRandomassignment115-334-1231995.09.17InsomniaPillsExercise
+
+JSON String blockRecord is: "\nnullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44C1DADAS1JohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4ADB11GD3JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullJoeSmallpoxBlow52bd9fAB4AC4GAJoeBlow1996.03.07123-45-6888SmallpoxnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d4321422AWayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c638931215D1SARandomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullWeiShinglesXubbd9f55D1GA12SWeiXu1996.03.22123-456-333ShinglesnullnullnullBruceLee456-789-123Vicodine1940.11.27ca66b115SSD21BruceLee456-789-1231940.11.27SoreStomachLessCombatVicodinenullnullnullRitaVita1992.01.31TryToRelax6fcb19CA544SADRitaVita1992.01.31999-456-789ObessivePersonalityTryToRelaxnullnullnullSallyMcCutty123-456-999Almotriptan1970.01.01787e22SGD2DA11SallyMcCutty123-456-9991970.01.01MigraineIcePackAlmotriptannull1nullRandomassignment115-334-123Exercise1995.09.17ba4e67SB1SA5DARandomassignment115-334-1231995.09.17InsomniaPillsExercisenull2nullRandomassignment115-334-123Exercise1995.09.17a68df6BDSG55DCRandomassignment115-334-1231995.09.17InsomniaPillsExercise"
+         --NEW BLOCKCHAIN--
+
+nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d14441332WayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c63893DADDGBC2Randomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f45SDS53DAJulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullBruceLee456-789-123Vicodine1940.11.27ca66bSA4DS5ADBruceLee456-789-1231940.11.27SoreStomachLessCombatVicodinenullnullnullRitaVita1992.01.31TryToRelax6fcb191SGA213GRitaVita1992.01.31999-456-789ObessivePersonalityTryToRelaxnullnullnullWeiShinglesXubbd9f51GDCSA2CWeiXu1996.03.22123-456-333ShinglesnullnullnullSallyMcCutty123-456-999Almotriptan1970.01.01787e22S4A4CS3CSallyMcCutty123-456-9991970.01.01MigraineIcePackAlmotriptannull1nullRandomassignment115-334-123Exercise1995.09.17ba4e67S4SCSSAARandomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullJoeDiMaggioRestFromSports1914.11.252cc14cDS2DABSSJoeDiMaggio1914.11.25111-22-3333SoreKneesRestFromSportsnullnullnullHelenKeller666-45-6789Aspirin1880.06.277f8ef3C3SBSCS5HelenKeller666-45-67891880.06.27ArthritisWarmClothsAspirinnullnullnullAbrahamLincoln444-45-6888Whiskey1809.02.12f21749AAAASB22AbrahamLincoln444-45-68881809.02.12GreviousWoundSurgeryWhiskey
+
+
+0x0000 = 0
+0xFFFF = 65535
+
+Hash is: 87FD487F517913CA7B0613383F45C16F8DE8BE2E6F5B2F22BC1A69CC622FF190
+First 16 bits in Hex and Decimal: 87FD and 34813
+34813 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: A82107D099D2498D2357C4DD4B5BB5918FE8F4291D993741DC79D36DFCFBCBBE
+First 16 bits in Hex and Decimal: A821 and 43041
+43041 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 834BB020044DDD364AA441825E8963CFEFFAB7386069A3A8030A6018F431C53D
+First 16 bits in Hex and Decimal: 834B and 33611
+33611 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: A4A93107A82BBA15BE641FC2BEDDAF0EEEB87CFF8EEAD9DD0070EC173DD74C8F
+First 16 bits in Hex and Decimal: A4A9 and 42153
+42153 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: E2E4875B94383B7E85B49B91623A734D1356DE360125E78EBE05C5032407D8EC
+First 16 bits in Hex and Decimal: E2E4 and 58084
+58084 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: A19217C26B4809F334D14D6BA56682999FCAD2D1FDD5EDEA84B64D416EE68376
+First 16 bits in Hex and Decimal: A192 and 41362
+41362 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 0CF50DE75868A0741046834B9BCD51926427DCE180DE54B3F275552DFA7F62C3
+First 16 bits in Hex and Decimal: 0CF5 and 3317
+3317 IS less than 20,000 so puzzle solved!
+The seed (puzzle answer) was: 1B24B52S
+Has the signature been verified: true
+
+Hexidecimal byte[] Representation of Original SHA256 Hash: 3f3491ad322304fc2c6bd10105a106d65755b5e7cd65d8a526b059638d2506d4
+
+nullnullnullHelenKeller666-45-6789Aspirin1880.06.277f8ef31B24B52SHelenKeller666-45-67891880.06.27ArthritisWarmClothsAspirin
+=========> In WriteJSON <=========
+
+String blockRecord is: nullnullnullHelenKeller666-45-6789Aspirin1880.06.277f8ef31B24B52SHelenKeller666-45-67891880.06.27ArthritisWarmClothsAspirin
+
+JSON String blockRecord is: "\nnullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44C1DADAS1JohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4ADB11GD3JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullJoeSmallpoxBlow52bd9fAB4AC4GAJoeBlow1996.03.07123-45-6888SmallpoxnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d4321422AWayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c638931215D1SARandomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullWeiShinglesXubbd9f55D1GA12SWeiXu1996.03.22123-456-333ShinglesnullnullnullBruceLee456-789-123Vicodine1940.11.27ca66b115SSD21BruceLee456-789-1231940.11.27SoreStomachLessCombatVicodinenullnullnullRitaVita1992.01.31TryToRelax6fcb19CA544SADRitaVita1992.01.31999-456-789ObessivePersonalityTryToRelaxnullnullnullSallyMcCutty123-456-999Almotriptan1970.01.01787e22SGD2DA11SallyMcCutty123-456-9991970.01.01MigraineIcePackAlmotriptannull1nullRandomassignment115-334-123Exercise1995.09.17ba4e67SB1SA5DARandomassignment115-334-1231995.09.17InsomniaPillsExercisenull2nullRandomassignment115-334-123Exercise1995.09.17a68df6BDSG55DCRandomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullHelenKeller666-45-6789Aspirin1880.06.277f8ef31B24B52SHelenKeller666-45-67891880.06.27ArthritisWarmClothsAspirin"
+0x0000 = 0
+0xFFFF = 65535
+
+Hash is: 8DBD90A98EB8B8FE04EC47DC0AB491907F872357B027C4AABA298DBC88B441A4
+First 16 bits in Hex and Decimal: 8DBD and 36285
+36285 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: AC14926719EFCCE373E24F307ED220993F7BB3635D34150DAA02D70F7D5A2DA1
+First 16 bits in Hex and Decimal: AC14 and 44052
+44052 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: FBF313B75AE8E545F4AEA4AEA692D64D01B3E736D519524DB3D4A5830AB602E2
+First 16 bits in Hex and Decimal: FBF3 and 64499
+64499 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 6BE76AC8D751F534F697CC7D6D668FCB50A0C5C8F26431ACF5CF2654A8243089
+First 16 bits in Hex and Decimal: 6BE7 and 27623
+27623 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: B952E5FA213CA5D9918AE3F407D99C24DE02DBE3278AE77D4D3F6AF5F855D71D
+First 16 bits in Hex and Decimal: B952 and 47442
+47442 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 589A8F51DAA5C4FA96F5FEADC9A17E423647E2A900AB12B1754C91524D6FABFC
+First 16 bits in Hex and Decimal: 589A and 22682
+22682 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: FC05341DE44248C8C4B442660E37CF64AF06401888877724FCEB96D91E54BBF5
+First 16 bits in Hex and Decimal: FC05 and 64517
+64517 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: FF148CBB6E067DDF4C4121584B8ABF6033956138710BFB9C269DABD33A52C33C
+First 16 bits in Hex and Decimal: FF14 and 65300
+65300 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 8300D879D23339E7ED219891D42CA8C6E26C4BC812B769A26F95B253BCA8418D
+First 16 bits in Hex and Decimal: 8300 and 33536
+33536 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: B7EE0DBF751A535C456C71D47C90D6FF1B9A54F309655A4F47048AB0AB28F039
+First 16 bits in Hex and Decimal: B7EE and 47086
+47086 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: A0E7FF2B66E6D84DF598CB186C4A6ADFAC95A86B0E7D7C35D5CA12F64698EA9F
+First 16 bits in Hex and Decimal: A0E7 and 41191
+41191 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 5202D032C2BCB1A55F7358B85B9760FA19CA999A2A90A733D477387B1E3524DC
+First 16 bits in Hex and Decimal: 5202 and 20994
+20994 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: D30DEB410C6FD40CFAA679D71F662722B25BA3308C68FB8E1F2CB9B1BC2E3756
+First 16 bits in Hex and Decimal: D30D and 54029
+54029 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 7FBC1FCF8A4F80BA32B453011305FC81E96D3850764998DBDFA652218BEC9123
+First 16 bits in Hex and Decimal: 7FBC and 32700
+32700 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: E3DA7436310284FEB1367A043AE638E47021D95962C2A69CE1C22CCA7006257E
+First 16 bits in Hex and Decimal: E3DA and 58330
+58330 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: A9723F0857C1811D4E4B3408EBA5856FD00B8CDA496A85942A475E16285686AD
+First 16 bits in Hex and Decimal: A972 and 43378
+43378 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 2B046709A1F434811732CDCBB473144CF6AD39859C5284565B055481F6C817D6
+First 16 bits in Hex and Decimal: 2B04 and 11012
+11012 IS less than 20,000 so puzzle solved!
+The seed (puzzle answer) was: A3AS3SDS
+Has the signature been verified: true
+
+Hexidecimal byte[] Representation of Original SHA256 Hash: b4dc6420e81ee5f269137222779cd930c69bc056797f4b69472368c811e703bb
+
+nullnullnullAbrahamLincoln444-45-6888Whiskey1809.02.12f21749A3AS3SDSAbrahamLincoln444-45-68881809.02.12GreviousWoundSurgeryWhiskey
+=========> In WriteJSON <=========
+
+String blockRecord is: nullnullnullAbrahamLincoln444-45-6888Whiskey1809.02.12f21749A3AS3SDSAbrahamLincoln444-45-68881809.02.12GreviousWoundSurgeryWhiskey
+
+JSON String blockRecord is: "\nnullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44C1DADAS1JohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4ADB11GD3JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullJoeSmallpoxBlow52bd9fAB4AC4GAJoeBlow1996.03.07123-45-6888SmallpoxnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d4321422AWayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c638931215D1SARandomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullWeiShinglesXubbd9f55D1GA12SWeiXu1996.03.22123-456-333ShinglesnullnullnullBruceLee456-789-123Vicodine1940.11.27ca66b115SSD21BruceLee456-789-1231940.11.27SoreStomachLessCombatVicodinenullnullnullRitaVita1992.01.31TryToRelax6fcb19CA544SADRitaVita1992.01.31999-456-789ObessivePersonalityTryToRelaxnullnullnullSallyMcCutty123-456-999Almotriptan1970.01.01787e22SGD2DA11SallyMcCutty123-456-9991970.01.01MigraineIcePackAlmotriptannull1nullRandomassignment115-334-123Exercise1995.09.17ba4e67SB1SA5DARandomassignment115-334-1231995.09.17InsomniaPillsExercisenull2nullRandomassignment115-334-123Exercise1995.09.17a68df6BDSG55DCRandomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullHelenKeller666-45-6789Aspirin1880.06.277f8ef31B24B52SHelenKeller666-45-67891880.06.27ArthritisWarmClothsAspirinnullnullnullAbrahamLincoln444-45-6888Whiskey1809.02.12f21749A3AS3SDSAbrahamLincoln444-45-68881809.02.12GreviousWoundSurgeryWhiskey"
+0x0000 = 0
+0xFFFF = 65535
+
+Hash is: 3A783F80D2A76270EC66F2FABB7BA4D810DD1AB18ADDC4AF6FCF3BF5DA1CB28F
+First 16 bits in Hex and Decimal: 3A78 and 14968
+14968 IS less than 20,000 so puzzle solved!
+The seed (puzzle answer) was: AGDS54AA
+Has the signature been verified: true
+
+Hexidecimal byte[] Representation of Original SHA256 Hash: 3134b663dca116825e15242d0c79a6a19ea4be06e8848f63419d46cee7f5c095
+
+nullnullnullJohnKennedyDrugTherapy1917.05.291392c0AGDS54AAJohnKennedy1917.05.29333-45-6999AddisonsDiseaseDrugTherapy
+=========> In WriteJSON <=========
+
+String blockRecord is: nullnullnullJohnKennedyDrugTherapy1917.05.291392c0AGDS54AAJohnKennedy1917.05.29333-45-6999AddisonsDiseaseDrugTherapy
+
+JSON String blockRecord is: "\nnullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44C1DADAS1JohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4ADB11GD3JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullJoeSmallpoxBlow52bd9fAB4AC4GAJoeBlow1996.03.07123-45-6888SmallpoxnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d4321422AWayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c638931215D1SARandomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullWeiShinglesXubbd9f55D1GA12SWeiXu1996.03.22123-456-333ShinglesnullnullnullBruceLee456-789-123Vicodine1940.11.27ca66b115SSD21BruceLee456-789-1231940.11.27SoreStomachLessCombatVicodinenullnullnullRitaVita1992.01.31TryToRelax6fcb19CA544SADRitaVita1992.01.31999-456-789ObessivePersonalityTryToRelaxnullnullnullSallyMcCutty123-456-999Almotriptan1970.01.01787e22SGD2DA11SallyMcCutty123-456-9991970.01.01MigraineIcePackAlmotriptannull1nullRandomassignment115-334-123Exercise1995.09.17ba4e67SB1SA5DARandomassignment115-334-1231995.09.17InsomniaPillsExercisenull2nullRandomassignment115-334-123Exercise1995.09.17a68df6BDSG55DCRandomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullHelenKeller666-45-6789Aspirin1880.06.277f8ef31B24B52SHelenKeller666-45-67891880.06.27ArthritisWarmClothsAspirinnullnullnullAbrahamLincoln444-45-6888Whiskey1809.02.12f21749A3AS3SDSAbrahamLincoln444-45-68881809.02.12GreviousWoundSurgeryWhiskeynullnullnullJohnKennedyDrugTherapy1917.05.291392c0AGDS54AAJohnKennedy1917.05.29333-45-6999AddisonsDiseaseDrugTherapy"
+0x0000 = 0
+0xFFFF = 65535
+
+Hash is: C3F7791DB50902A17CEC6A6D00EF45A88B3630B035677DE409534DFECF69BAE6
+First 16 bits in Hex and Decimal: C3F7 and 50167
+50167 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: DC6BE65312D57C58D49D9673F17E8F8AF727144C7087E3126C7C6FA2360BBB4A
+First 16 bits in Hex and Decimal: DC6B and 56427
+56427 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 22DF1C584D2A7FF58A1296EA6F52B315CB5D9F33EEFEFEEC20CEA5295B3B9D3D
+First 16 bits in Hex and Decimal: 22DF and 8927
+8927 IS less than 20,000 so puzzle solved!
+The seed (puzzle answer) was: 42A5DGAG
+Has the signature been verified: true
+
+Hexidecimal byte[] Representation of Original SHA256 Hash: b2a6a2acef6d711bd744536e3e25b615e3cb5b5c60b1a9d8a20e417956f8b4fc
+
+nullnullnullJoeDiMaggioRestFromSports1914.11.252cc14c42A5DGAGJoeDiMaggio1914.11.25111-22-3333SoreKneesRestFromSports
+=========> In WriteJSON <=========
+
+String blockRecord is: nullnullnullJoeDiMaggioRestFromSports1914.11.252cc14c42A5DGAGJoeDiMaggio1914.11.25111-22-3333SoreKneesRestFromSports
+
+JSON String blockRecord is: "\nnullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44C1DADAS1JohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4ADB11GD3JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullJoeSmallpoxBlow52bd9fAB4AC4GAJoeBlow1996.03.07123-45-6888SmallpoxnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d4321422AWayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c638931215D1SARandomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullWeiShinglesXubbd9f55D1GA12SWeiXu1996.03.22123-456-333ShinglesnullnullnullBruceLee456-789-123Vicodine1940.11.27ca66b115SSD21BruceLee456-789-1231940.11.27SoreStomachLessCombatVicodinenullnullnullRitaVita1992.01.31TryToRelax6fcb19CA544SADRitaVita1992.01.31999-456-789ObessivePersonalityTryToRelaxnullnullnullSallyMcCutty123-456-999Almotriptan1970.01.01787e22SGD2DA11SallyMcCutty123-456-9991970.01.01MigraineIcePackAlmotriptannull1nullRandomassignment115-334-123Exercise1995.09.17ba4e67SB1SA5DARandomassignment115-334-1231995.09.17InsomniaPillsExercisenull2nullRandomassignment115-334-123Exercise1995.09.17a68df6BDSG55DCRandomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullHelenKeller666-45-6789Aspirin1880.06.277f8ef31B24B52SHelenKeller666-45-67891880.06.27ArthritisWarmClothsAspirinnullnullnullAbrahamLincoln444-45-6888Whiskey1809.02.12f21749A3AS3SDSAbrahamLincoln444-45-68881809.02.12GreviousWoundSurgeryWhiskeynullnullnullJohnKennedyDrugTherapy1917.05.291392c0AGDS54AAJohnKennedy1917.05.29333-45-6999AddisonsDiseaseDrugTherapynullnullnullJoeDiMaggioRestFromSports1914.11.252cc14c42A5DGAGJoeDiMaggio1914.11.25111-22-3333SoreKneesRestFromSports"
+
+
+Process 2 :
+
+"C:\Program Files\Java\jdk-13.0.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Educational Edition 2020.2.1\lib\idea_rt.jar=53905:C:\Program Files\JetBrains\IntelliJ IDEA Educational Edition 2020.2.1\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\srina\IdeaProjects\BlockA\out\production\BlockA;C:\Users\srina\Desktop\DistributedSystems\Blockchain\gson-2.8.2.jar BlockChain 2
+
+Process2 is starting up : 
+
+size of the list of records is : []
+Starting Key Server input thread using 4612
+Starting the Unverified Block Server input thread using 4712
+Starting the Blockchain server input thread using 4812
+Got key: KeyProcess0
+Got key: KeyProcess1
+Got key: KeyProcess2
+
+JSON String blockRecord is: {
+  "VerificationProcessID": "2",
+  "uuid": "acc08cc1-6682-4931-8ff6-67b94fa8236e",
+  "Fname": "Random",
+  "Lname": "assignment",
+  "SSNum": "115-334-123",
+  "DOB": "1995.09.17",
+  "Diag": "Insomnia",
+  "Treat": "Pills",
+  "Rx": "Exercise",
+  "RandomSeed": "a68df6",
+  "WinningHash": "4997a188927fd1a03484636ac2bd0a6e0d0dbe16403ba9674972744f91a1dcf2",
+  "TimeStamp": " 2020-11-04.22:42:13.2"
+}
+4 records read.
+
+Records in the linked list:
+ 2020-11-04.22:42:13.2 Random assignment
+ 2020-11-04.22:42:13.2 Helen Keller
+ 2020-11-04.22:42:13.2 Abraham Lincoln
+ 2020-11-04.22:42:13.2 John Kennedy
+ 2020-11-04.22:42:13.2 Joe DiMaggio
+
+The shuffled list:
+ 2020-11-04.22:42:13.2 Joe DiMaggio
+ 2020-11-04.22:42:13.2 Random assignment
+ 2020-11-04.22:42:13.2 Abraham Lincoln
+ 2020-11-04.22:42:13.2 John Kennedy
+ 2020-11-04.22:42:13.2 Helen Keller
+
+Placing shuffled records in our priority queue...
+
+Priority Queue (restored) Order:
+ 2020-11-04.22:42:13.2 Joe DiMaggio
+ 2020-11-04.22:42:13.2 Helen Keller
+ 2020-11-04.22:42:13.2 John Kennedy
+ 2020-11-04.22:42:13.2 Abraham Lincoln
+ 2020-11-04.22:42:13.2 Random assignment
+
+
+
+Recoreded list is of the size : [BlockRecord@5594a1b5, BlockRecord@6a5fc7f7, BlockRecord@3b6eb2ec, BlockRecord@1e643faf, BlockRecord@6e8dacdf]
+Sending UVBs to process 0...
+Received UVB:  2020-11-04.22:42:10.0  2020-11-04.22:42:10.0 John Smith
+Received UVB:  2020-11-04.22:42:10.0  2020-11-04.22:42:10.0 Julie Wilson
+Received UVB:  2020-11-04.22:42:10.0  2020-11-04.22:42:10.0 Joe 
+Received UVB:  2020-11-04.22:42:10.0  2020-11-04.22:42:10.0 Wayne Blaine
+Sending UVBs to process 1...
+Received UVB:  2020-11-04.22:42:10.0  2020-11-04.22:42:10.0 Random assignment
+Sending UVBs to process 2...
+Received UVB:  2020-11-04.22:42:11.1  2020-11-04.22:42:11.1 Sally McCutty
+Received UVB:  2020-11-04.22:42:11.1  2020-11-04.22:42:11.1 Random assignment
+Received UVB:  2020-11-04.22:42:11.1  2020-11-04.22:42:11.1 Bruce Lee
+Received UVB:  2020-11-04.22:42:13.2  2020-11-04.22:42:13.2 Abraham Lincoln
+Received UVB:  2020-11-04.22:42:11.1  2020-11-04.22:42:11.1 Rita Vita
+Received UVB:  2020-11-04.22:42:11.1  2020-11-04.22:42:11.1 Wei 
+Received UVB:  2020-11-04.22:42:13.2  2020-11-04.22:42:13.2 Joe DiMaggio
+Received UVB:  2020-11-04.22:42:13.2  2020-11-04.22:42:13.2 Random assignment
+Received UVB:  2020-11-04.22:42:13.2  2020-11-04.22:42:13.2 Helen Keller
+         --NEW BLOCKCHAIN--
+
+nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888Smallpox
+
+
+Received UVB:  2020-11-04.22:42:13.2  2020-11-04.22:42:13.2 John Kennedy
+         --NEW BLOCKCHAIN--
+
+nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirin
+
+
+         --NEW BLOCKCHAIN--
+
+nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d14441332WayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOil
+
+
+         --NEW BLOCKCHAIN--
+
+
+nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44C1DADAS1JohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4ADB11GD3JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppers
+
+
+Starting the Unverified Block Priority Queue Consumer thread.
+
+0x0000 = 0
+0xFFFF = 65535
+
+Hash is: 33BDCD40050630F0D6A2A400323F8C80E109B46B3FB55D011ACFF28CB00977AF
+First 16 bits in Hex and Decimal: 33BD and 13245
+13245 IS less than 20,000 so puzzle solved!
+The seed (puzzle answer) was: S2SBDB3D
+Has the signature been verified: true
+
+Hexidecimal byte[] Representation of Original SHA256 Hash: c883876f74495843b25c613afbb5ec2bd47bedd50b88350d6e6ec6d463eacec1
+
+nullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44S2SBDB3DJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirin
+=========> In WriteJSON <=========
+
+String blockRecord is: nullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44S2SBDB3DJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirin
+
+JSON String blockRecord is: "\n\nnullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44C1DADAS1JohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4ADB11GD3JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44S2SBDB3DJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirin"
+         --NEW BLOCKCHAIN--
+
+nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d14441332WayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c63893DADDGBC2Randomassignment115-334-1231995.09.17InsomniaPillsExercise
+
+
+0x0000 = 0
+0xFFFF = 65535
+
+Hash is: 8AA44469A9F4C5776665B81EC013F64A3EE6E71B13292C33BA5954D3D2894A32
+First 16 bits in Hex and Decimal: 8AA4 and 35492
+35492 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 73A568E2B42CA05F34F1D8A1577DAD7A917D5D5D93E18D4E99C36898A76345D2
+First 16 bits in Hex and Decimal: 73A5 and 29605
+29605 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 849ED426376B4575B33AE3D3BF67168400BB5A78CAA1D33C9B2580B4169251F3
+First 16 bits in Hex and Decimal: 849E and 33950
+33950 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 48827A6D339B9864A1F9789BB93652AD5CCF5F560421AC77CCFE815FFE802881
+First 16 bits in Hex and Decimal: 4882 and 18562
+18562 IS less than 20,000 so puzzle solved!
+The seed (puzzle answer) was: A4AAA353
+Has the signature been verified: true
+
+Hexidecimal byte[] Representation of Original SHA256 Hash: bf51ba3d9908f41875d3105fdcb66eb49600b82589eccd0b6f824f5babfa9b42
+
+nullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4A4AAA353JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppers
+=========> In WriteJSON <=========
+
+String blockRecord is: nullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4A4AAA353JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppers
+
+JSON String blockRecord is: "\n\nnullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44C1DADAS1JohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4ADB11GD3JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44S2SBDB3DJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4A4AAA353JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppers"
+[Julie verified by P2 at time ]
+         --NEW BLOCKCHAIN--
+
+
+
+nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44C1DADAS1JohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4ADB11GD3JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44S2SBDB3DJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4A4AAA353JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppers
+
+
+         --NEW BLOCKCHAIN--
+
+
+nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44C1DADAS1JohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4ADB11GD3JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullJoeSmallpoxBlow52bd9fAB4AC4GAJoeBlow1996.03.07123-45-6888SmallpoxnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d4321422AWayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOil
+
+
+0x0000 = 0
+0xFFFF = 65535
+
+Hash is: CCAFC8B5CD109454E3A7818082A9C9625023273ACD23CBF9EF6E631F953039BC
+First 16 bits in Hex and Decimal: CCAF and 52399
+52399 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: C0052BC17B4B4B8795A764EDB7C25DDEDDF30D0A94F09A1F83FD5157373D6AB8
+First 16 bits in Hex and Decimal: C005 and 49157
+49157 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 20CA7853B9E1451FBD44059A5A7200211A7510A7B7F6215E3C73571BFF14E763
+First 16 bits in Hex and Decimal: 20CA and 8394
+8394 IS less than 20,000 so puzzle solved!
+The seed (puzzle answer) was: 5GS3CC5G
+Has the signature been verified: true
+
+Hexidecimal byte[] Representation of Original SHA256 Hash: 82e24bee558db4242850614513978028a6a88bc57ba6c976aebe66a5d7072ff6
+
+nullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d5GS3CC5GWayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOil
+=========> In WriteJSON <=========
+
+String blockRecord is: nullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d5GS3CC5GWayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOil
+
+JSON String blockRecord is: "\n\nnullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44C1DADAS1JohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4ADB11GD3JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44S2SBDB3DJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4A4AAA353JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d5GS3CC5GWayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOil"
+         --NEW BLOCKCHAIN--
+
+nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d14441332WayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c63893DADDGBC2Randomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f45SDS53DAJulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullBruceLee456-789-123Vicodine1940.11.27ca66bSA4DS5ADBruceLee456-789-1231940.11.27SoreStomachLessCombatVicodine
+
+
+0x0000 = 0
+0xFFFF = 65535
+
+Hash is: A27278BD330FE68B0C7C0BB894908A370F617C75E49D094414620DF7C2A8D98D
+First 16 bits in Hex and Decimal: A272 and 41586
+41586 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: B8D6F041114E9D361104339F3392DFBA050E3C64C74A1C640767E91750FF1803
+First 16 bits in Hex and Decimal: B8D6 and 47318
+47318 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: E0D90AFA233BFBC2C39D08CC94CEA5ACF0196AB7AE917643FBD124A0CFB73037
+First 16 bits in Hex and Decimal: E0D9 and 57561
+57561 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 9CD74E4CBB00CFA3994ACBC1FBE287653C23DBFE774C393BCA7FD02CB9A9F70E
+First 16 bits in Hex and Decimal: 9CD7 and 40151
+40151 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 771B123DD0A87D7F226C954C8F8D79E68775419B3E213E210B0DEC59FF81930B
+First 16 bits in Hex and Decimal: 771B and 30491
+30491 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 295448BBF4A314B42D949DCC88F9C8FCB8A12B6415AA6C193C70856E7E9A26F5
+First 16 bits in Hex and Decimal: 2954 and 10580
+10580 IS less than 20,000 so puzzle solved!
+The seed (puzzle answer) was: DASAD3D4
+Has the signature been verified: true
+
+Hexidecimal byte[] Representation of Original SHA256 Hash: 71006ed3b54281b339516afcb1b2835d13b14ff367fd998af97f19f839aaeb15
+
+null0nullRandomassignment115-334-123Exercise1995.09.17c63893DASAD3D4Randomassignment115-334-1231995.09.17InsomniaPillsExercise
+=========> In WriteJSON <=========
+
+String blockRecord is: null0nullRandomassignment115-334-123Exercise1995.09.17c63893DASAD3D4Randomassignment115-334-1231995.09.17InsomniaPillsExercise
+
+JSON String blockRecord is: "\n\nnullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44C1DADAS1JohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4ADB11GD3JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44S2SBDB3DJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4A4AAA353JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d5GS3CC5GWayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c63893DASAD3D4Randomassignment115-334-1231995.09.17InsomniaPillsExercise"
+         --NEW BLOCKCHAIN--
+
+nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d14441332WayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c63893DADDGBC2Randomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f45SDS53DAJulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullBruceLee456-789-123Vicodine1940.11.27ca66bSA4DS5ADBruceLee456-789-1231940.11.27SoreStomachLessCombatVicodinenullnullnullRitaVita1992.01.31TryToRelax6fcb191SGA213GRitaVita1992.01.31999-456-789ObessivePersonalityTryToRelax
+
+
+         --NEW BLOCKCHAIN--
+
+
+nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44C1DADAS1JohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4ADB11GD3JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullJoeSmallpoxBlow52bd9fAB4AC4GAJoeBlow1996.03.07123-45-6888SmallpoxnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d4321422AWayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c638931215D1SARandomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullWeiShinglesXubbd9f55D1GA12SWeiXu1996.03.22123-456-333Shingles
+
+
+0x0000 = 0
+0xFFFF = 65535
+
+Hash is: 7A2E24E63AB1390193AFB56402E0A698EFFC28A42C999781D821E3D98FD8C2C8
+First 16 bits in Hex and Decimal: 7A2E and 31278
+31278 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 3F7E6FF9ADDEB0FAEE40A34AFDDBCCF59CBB10D89B7AB856BADB3EC52B67B9CA
+First 16 bits in Hex and Decimal: 3F7E and 16254
+16254 IS less than 20,000 so puzzle solved!
+The seed (puzzle answer) was: D4ABGAS4
+Has the signature been verified: true
+
+Hexidecimal byte[] Representation of Original SHA256 Hash: 8a66e91cc35a989df7693e13529e12c5201fb45ed86918070e0b53db3e862ccf
+
+nullnullnullJoeSmallpoxBlow52bd9fD4ABGAS4JoeBlow1996.03.07123-45-6888Smallpox
+=========> In WriteJSON <=========
+
+String blockRecord is: nullnullnullJoeSmallpoxBlow52bd9fD4ABGAS4JoeBlow1996.03.07123-45-6888Smallpox
+
+JSON String blockRecord is: "\n\nnullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44C1DADAS1JohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4ADB11GD3JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44S2SBDB3DJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4A4AAA353JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d5GS3CC5GWayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c63893DASAD3D4Randomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullJoeSmallpoxBlow52bd9fD4ABGAS4JoeBlow1996.03.07123-45-6888Smallpox"
+         --NEW BLOCKCHAIN--
+
+
+nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44C1DADAS1JohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4ADB11GD3JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullJoeSmallpoxBlow52bd9fAB4AC4GAJoeBlow1996.03.07123-45-6888SmallpoxnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d4321422AWayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c638931215D1SARandomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullWeiShinglesXubbd9f55D1GA12SWeiXu1996.03.22123-456-333ShinglesnullnullnullBruceLee456-789-123Vicodine1940.11.27ca66b115SSD21BruceLee456-789-1231940.11.27SoreStomachLessCombatVicodine
+
+
+0x0000 = 0
+0xFFFF = 65535
+
+Hash is: 3188FE86E9D6467851F5EEB52A94C7682734DE1EDAA326127D010BBE22087629
+First 16 bits in Hex and Decimal: 3188 and 12680
+12680 IS less than 20,000 so puzzle solved!
+The seed (puzzle answer) was: AG4A33AD
+Has the signature been verified: true
+
+Hexidecimal byte[] Representation of Original SHA256 Hash: 7f3da90765854f9b9ab1ea85d52a3b8c916ccd348f6c9295ea8db4ac6e8c3f10
+
+nullnullnullWeiShinglesXubbd9f5AG4A33ADWeiXu1996.03.22123-456-333Shingles
+=========> In WriteJSON <=========
+
+String blockRecord is: nullnullnullWeiShinglesXubbd9f5AG4A33ADWeiXu1996.03.22123-456-333Shingles
+
+JSON String blockRecord is: "\n\nnullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44C1DADAS1JohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4ADB11GD3JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44S2SBDB3DJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4A4AAA353JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d5GS3CC5GWayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c63893DASAD3D4Randomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullJoeSmallpoxBlow52bd9fD4ABGAS4JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullWeiShinglesXubbd9f5AG4A33ADWeiXu1996.03.22123-456-333Shingles"
+         --NEW BLOCKCHAIN--
+
+nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d14441332WayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c63893DADDGBC2Randomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f45SDS53DAJulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullBruceLee456-789-123Vicodine1940.11.27ca66bSA4DS5ADBruceLee456-789-1231940.11.27SoreStomachLessCombatVicodinenullnullnullRitaVita1992.01.31TryToRelax6fcb191SGA213GRitaVita1992.01.31999-456-789ObessivePersonalityTryToRelaxnullnullnullWeiShinglesXubbd9f51GDCSA2CWeiXu1996.03.22123-456-333ShinglesnullnullnullSallyMcCutty123-456-999Almotriptan1970.01.01787e22S4A4CS3CSallyMcCutty123-456-9991970.01.01MigraineIcePackAlmotriptan
+
+
+0x0000 = 0
+0xFFFF = 65535
+
+Hash is: 266CF37116A86D25A36810994D5FD1B875443AB687C84073CE324A7F9D7D4E28
+First 16 bits in Hex and Decimal: 266C and 9836
+9836 IS less than 20,000 so puzzle solved!
+The seed (puzzle answer) was: 35AB4SSD
+Has the signature been verified: true
+
+Hexidecimal byte[] Representation of Original SHA256 Hash: ad0899ace4b087e4982d5aec908c100a1c70904ec58c062d97a205fa5c06759d
+
+nullnullnullBruceLee456-789-123Vicodine1940.11.27ca66b35AB4SSDBruceLee456-789-1231940.11.27SoreStomachLessCombatVicodine
+=========> In WriteJSON <=========
+
+String blockRecord is: nullnullnullBruceLee456-789-123Vicodine1940.11.27ca66b35AB4SSDBruceLee456-789-1231940.11.27SoreStomachLessCombatVicodine
+
+JSON String blockRecord is: "\n\nnullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44C1DADAS1JohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4ADB11GD3JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44S2SBDB3DJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4A4AAA353JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d5GS3CC5GWayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c63893DASAD3D4Randomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullJoeSmallpoxBlow52bd9fD4ABGAS4JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullWeiShinglesXubbd9f5AG4A33ADWeiXu1996.03.22123-456-333ShinglesnullnullnullBruceLee456-789-123Vicodine1940.11.27ca66b35AB4SSDBruceLee456-789-1231940.11.27SoreStomachLessCombatVicodine"
+0x0000 = 0
+0xFFFF = 65535
+
+Hash is: 8CB2FA64A074266D64BEC73E75E55F785099183B2CA13F7B514BB55AA1CA0D31
+First 16 bits in Hex and Decimal: 8CB2 and 36018
+36018 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 5D54A4F696914559FBC6C8A0D7BA488538A0DB71194829BDA9FED1982080D646
+First 16 bits in Hex and Decimal: 5D54 and 23892
+23892 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 609A6C6FE927E8C5C9DBE0D55ADECE628170DF280713C7AD6CB4E764E5D32F52
+First 16 bits in Hex and Decimal: 609A and 24730
+24730 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 1A93BE6BECFFE830B0F03EA15260709171FE3420444E097D047F1D3C00357257
+First 16 bits in Hex and Decimal: 1A93 and 6803
+6803 IS less than 20,000 so puzzle solved!
+The seed (puzzle answer) was: 4S31SCSD
+Has the signature been verified: true
+
+Hexidecimal byte[] Representation of Original SHA256 Hash: f8fbded5f33568fb91d362d209812c910f2f9e6af3846ed778d7feb5b2d19503
+
+nullnullnullRitaVita1992.01.31TryToRelax6fcb194S31SCSDRitaVita1992.01.31999-456-789ObessivePersonalityTryToRelax
+=========> In WriteJSON <=========
+
+String blockRecord is: nullnullnullRitaVita1992.01.31TryToRelax6fcb194S31SCSDRitaVita1992.01.31999-456-789ObessivePersonalityTryToRelax
+
+JSON String blockRecord is: "\n\nnullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44C1DADAS1JohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4ADB11GD3JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44S2SBDB3DJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4A4AAA353JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d5GS3CC5GWayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c63893DASAD3D4Randomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullJoeSmallpoxBlow52bd9fD4ABGAS4JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullWeiShinglesXubbd9f5AG4A33ADWeiXu1996.03.22123-456-333ShinglesnullnullnullBruceLee456-789-123Vicodine1940.11.27ca66b35AB4SSDBruceLee456-789-1231940.11.27SoreStomachLessCombatVicodinenullnullnullRitaVita1992.01.31TryToRelax6fcb194S31SCSDRitaVita1992.01.31999-456-789ObessivePersonalityTryToRelax"
+0x0000 = 0
+0xFFFF = 65535
+
+Hash is: 0918D0B1B0B64E11CA867DDF7F6D7F17BE1D351057F1791E139362BA933E0792
+First 16 bits in Hex and Decimal: 0918 and 2328
+2328 IS less than 20,000 so puzzle solved!
+The seed (puzzle answer) was: B1CDDS4B
+Has the signature been verified: true
+
+Hexidecimal byte[] Representation of Original SHA256 Hash: 45211a72a4088f1e1f868eb028b87335e8640b95758c142703c9fc40b683b0d8
+
+nullnullnullSallyMcCutty123-456-999Almotriptan1970.01.01787e22B1CDDS4BSallyMcCutty123-456-9991970.01.01MigraineIcePackAlmotriptan
+=========> In WriteJSON <=========
+
+String blockRecord is: nullnullnullSallyMcCutty123-456-999Almotriptan1970.01.01787e22B1CDDS4BSallyMcCutty123-456-9991970.01.01MigraineIcePackAlmotriptan
+
+JSON String blockRecord is: "\n\nnullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44C1DADAS1JohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4ADB11GD3JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44S2SBDB3DJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4A4AAA353JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d5GS3CC5GWayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c63893DASAD3D4Randomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullJoeSmallpoxBlow52bd9fD4ABGAS4JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullWeiShinglesXubbd9f5AG4A33ADWeiXu1996.03.22123-456-333ShinglesnullnullnullBruceLee456-789-123Vicodine1940.11.27ca66b35AB4SSDBruceLee456-789-1231940.11.27SoreStomachLessCombatVicodinenullnullnullRitaVita1992.01.31TryToRelax6fcb194S31SCSDRitaVita1992.01.31999-456-789ObessivePersonalityTryToRelaxnullnullnullSallyMcCutty123-456-999Almotriptan1970.01.01787e22B1CDDS4BSallyMcCutty123-456-9991970.01.01MigraineIcePackAlmotriptan"
+         --NEW BLOCKCHAIN--
+
+nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d14441332WayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c63893DADDGBC2Randomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f45SDS53DAJulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullBruceLee456-789-123Vicodine1940.11.27ca66bSA4DS5ADBruceLee456-789-1231940.11.27SoreStomachLessCombatVicodinenullnullnullRitaVita1992.01.31TryToRelax6fcb191SGA213GRitaVita1992.01.31999-456-789ObessivePersonalityTryToRelaxnullnullnullWeiShinglesXubbd9f51GDCSA2CWeiXu1996.03.22123-456-333ShinglesnullnullnullSallyMcCutty123-456-999Almotriptan1970.01.01787e22S4A4CS3CSallyMcCutty123-456-9991970.01.01MigraineIcePackAlmotriptannull1nullRandomassignment115-334-123Exercise1995.09.17ba4e67S4SCSSAARandomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullJoeDiMaggioRestFromSports1914.11.252cc14cDS2DABSSJoeDiMaggio1914.11.25111-22-3333SoreKneesRestFromSportsnullnullnullHelenKeller666-45-6789Aspirin1880.06.277f8ef3C3SBSCS5HelenKeller666-45-67891880.06.27ArthritisWarmClothsAspirin
+
+
+0x0000 = 0
+0xFFFF = 65535
+
+Hash is: 82179AC91BBEE090B16EB993843044D1D3A410A09672EC10DFEFAF04226F41AD
+First 16 bits in Hex and Decimal: 8217 and 33303
+33303 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: FD73297D7E929F3BA7B51FB45DF4ACDDB47FEEB449600411F6221143F32B70F3
+First 16 bits in Hex and Decimal: FD73 and 64883
+64883 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: C8CEE109ED6C58376C789CDACC59B41807EF04776A38F24907CB2F2FA61FDDEC
+First 16 bits in Hex and Decimal: C8CE and 51406
+51406 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 99B21BF0F105D2F8E45DDF098A846172EADDED6F2093507122CC180AEA3C7347
+First 16 bits in Hex and Decimal: 99B2 and 39346
+39346 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: D574BBDDEEA52BD764B886C19B12B345F085416A6B3076CE5C3EC7F2E668C698
+First 16 bits in Hex and Decimal: D574 and 54644
+54644 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: D72987BF89BA677EBFE2DD6BB3B5E516C505DD6E80E3C29921E0B7AE9AB56F18
+First 16 bits in Hex and Decimal: D729 and 55081
+55081 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 44EDCB54F3FFE089527B8E0931B1E1A3EEB3977E1C967C55F3E4A698AA092A61
+First 16 bits in Hex and Decimal: 44ED and 17645
+17645 IS less than 20,000 so puzzle solved!
+The seed (puzzle answer) was: 2SSDAAAC
+Has the signature been verified: true
+
+Hexidecimal byte[] Representation of Original SHA256 Hash: d107f4f81d7a8055dd06b897d1fb89dfd6f702798350c917a1465629548e59a6
+
+null1nullRandomassignment115-334-123Exercise1995.09.17ba4e672SSDAAACRandomassignment115-334-1231995.09.17InsomniaPillsExercise
+=========> In WriteJSON <=========
+
+String blockRecord is: null1nullRandomassignment115-334-123Exercise1995.09.17ba4e672SSDAAACRandomassignment115-334-1231995.09.17InsomniaPillsExercise
+
+JSON String blockRecord is: "\n\nnullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44C1DADAS1JohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4ADB11GD3JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44S2SBDB3DJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4A4AAA353JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d5GS3CC5GWayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c63893DASAD3D4Randomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullJoeSmallpoxBlow52bd9fD4ABGAS4JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullWeiShinglesXubbd9f5AG4A33ADWeiXu1996.03.22123-456-333ShinglesnullnullnullBruceLee456-789-123Vicodine1940.11.27ca66b35AB4SSDBruceLee456-789-1231940.11.27SoreStomachLessCombatVicodinenullnullnullRitaVita1992.01.31TryToRelax6fcb194S31SCSDRitaVita1992.01.31999-456-789ObessivePersonalityTryToRelaxnullnullnullSallyMcCutty123-456-999Almotriptan1970.01.01787e22B1CDDS4BSallyMcCutty123-456-9991970.01.01MigraineIcePackAlmotriptannull1nullRandomassignment115-334-123Exercise1995.09.17ba4e672SSDAAACRandomassignment115-334-1231995.09.17InsomniaPillsExercise"
+         --NEW BLOCKCHAIN--
+
+nullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d14441332WayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c63893DADDGBC2Randomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f45SDS53DAJulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullBruceLee456-789-123Vicodine1940.11.27ca66bSA4DS5ADBruceLee456-789-1231940.11.27SoreStomachLessCombatVicodinenullnullnullRitaVita1992.01.31TryToRelax6fcb191SGA213GRitaVita1992.01.31999-456-789ObessivePersonalityTryToRelaxnullnullnullWeiShinglesXubbd9f51GDCSA2CWeiXu1996.03.22123-456-333ShinglesnullnullnullSallyMcCutty123-456-999Almotriptan1970.01.01787e22S4A4CS3CSallyMcCutty123-456-9991970.01.01MigraineIcePackAlmotriptannull1nullRandomassignment115-334-123Exercise1995.09.17ba4e67S4SCSSAARandomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullJoeDiMaggioRestFromSports1914.11.252cc14cDS2DABSSJoeDiMaggio1914.11.25111-22-3333SoreKneesRestFromSportsnullnullnullHelenKeller666-45-6789Aspirin1880.06.277f8ef3C3SBSCS5HelenKeller666-45-67891880.06.27ArthritisWarmClothsAspirinnullnullnullAbrahamLincoln444-45-6888Whiskey1809.02.12f21749AAAASB22AbrahamLincoln444-45-68881809.02.12GreviousWoundSurgeryWhiskey
+
+
+0x0000 = 0
+0xFFFF = 65535
+
+Hash is: 1EF46AC551DDF0C2090FFD1238EFFA95FB9C4C696CB09B94E03819729B6F75D3
+First 16 bits in Hex and Decimal: 1EF4 and 7924
+7924 IS less than 20,000 so puzzle solved!
+The seed (puzzle answer) was: SASDB5AS
+Has the signature been verified: true
+
+Hexidecimal byte[] Representation of Original SHA256 Hash: 70f275d8b72a37a85a5a96faf67983d3c9e9560a5611aa8d05b860d7590cb261
+
+nullnullnullJoeDiMaggioRestFromSports1914.11.252cc14cSASDB5ASJoeDiMaggio1914.11.25111-22-3333SoreKneesRestFromSports
+=========> In WriteJSON <=========
+
+String blockRecord is: nullnullnullJoeDiMaggioRestFromSports1914.11.252cc14cSASDB5ASJoeDiMaggio1914.11.25111-22-3333SoreKneesRestFromSports
+
+JSON String blockRecord is: "\n\nnullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44C1DADAS1JohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4ADB11GD3JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44S2SBDB3DJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4A4AAA353JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d5GS3CC5GWayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c63893DASAD3D4Randomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullJoeSmallpoxBlow52bd9fD4ABGAS4JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullWeiShinglesXubbd9f5AG4A33ADWeiXu1996.03.22123-456-333ShinglesnullnullnullBruceLee456-789-123Vicodine1940.11.27ca66b35AB4SSDBruceLee456-789-1231940.11.27SoreStomachLessCombatVicodinenullnullnullRitaVita1992.01.31TryToRelax6fcb194S31SCSDRitaVita1992.01.31999-456-789ObessivePersonalityTryToRelaxnullnullnullSallyMcCutty123-456-999Almotriptan1970.01.01787e22B1CDDS4BSallyMcCutty123-456-9991970.01.01MigraineIcePackAlmotriptannull1nullRandomassignment115-334-123Exercise1995.09.17ba4e672SSDAAACRandomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullJoeDiMaggioRestFromSports1914.11.252cc14cSASDB5ASJoeDiMaggio1914.11.25111-22-3333SoreKneesRestFromSports"
+0x0000 = 0
+0xFFFF = 65535
+
+Hash is: 4803C1613D2F759222798DD83C571A2A9585C900E167D03D657F6D0A8E3A8E44
+First 16 bits in Hex and Decimal: 4803 and 18435
+18435 IS less than 20,000 so puzzle solved!
+The seed (puzzle answer) was: ACS12DAC
+Has the signature been verified: true
+
+Hexidecimal byte[] Representation of Original SHA256 Hash: 595d0d894b62caf6205ba6f8468986b2229154dbc5aa99daea7e365631f8cc62
+
+nullnullnullHelenKeller666-45-6789Aspirin1880.06.277f8ef3ACS12DACHelenKeller666-45-67891880.06.27ArthritisWarmClothsAspirin
+=========> In WriteJSON <=========
+
+String blockRecord is: nullnullnullHelenKeller666-45-6789Aspirin1880.06.277f8ef3ACS12DACHelenKeller666-45-67891880.06.27ArthritisWarmClothsAspirin
+
+JSON String blockRecord is: "\n\nnullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44C1DADAS1JohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4ADB11GD3JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44S2SBDB3DJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4A4AAA353JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d5GS3CC5GWayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c63893DASAD3D4Randomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullJoeSmallpoxBlow52bd9fD4ABGAS4JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullWeiShinglesXubbd9f5AG4A33ADWeiXu1996.03.22123-456-333ShinglesnullnullnullBruceLee456-789-123Vicodine1940.11.27ca66b35AB4SSDBruceLee456-789-1231940.11.27SoreStomachLessCombatVicodinenullnullnullRitaVita1992.01.31TryToRelax6fcb194S31SCSDRitaVita1992.01.31999-456-789ObessivePersonalityTryToRelaxnullnullnullSallyMcCutty123-456-999Almotriptan1970.01.01787e22B1CDDS4BSallyMcCutty123-456-9991970.01.01MigraineIcePackAlmotriptannull1nullRandomassignment115-334-123Exercise1995.09.17ba4e672SSDAAACRandomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullJoeDiMaggioRestFromSports1914.11.252cc14cSASDB5ASJoeDiMaggio1914.11.25111-22-3333SoreKneesRestFromSportsnullnullnullHelenKeller666-45-6789Aspirin1880.06.277f8ef3ACS12DACHelenKeller666-45-67891880.06.27ArthritisWarmClothsAspirin"
+0x0000 = 0
+0xFFFF = 65535
+
+Hash is: 87556753A3C3246B86C7BEF6BA1CA79268964E525FD092516AE1BCFF44F70D7B
+First 16 bits in Hex and Decimal: 8755 and 34645
+34645 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 78608170F643445F0A6B3442BF283FB253B112BEE9A5C65047CD89C80CE6A772
+First 16 bits in Hex and Decimal: 7860 and 30816
+30816 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: C5B306CBF01806158BFA122E1B9E6F206B8D5AD6DB79130748538B063301019B
+First 16 bits in Hex and Decimal: C5B3 and 50611
+50611 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 1B700503F087A3E5B43B40285E8B288F4E3E427D2DA6388879D9AEB6B1E646C3
+First 16 bits in Hex and Decimal: 1B70 and 7024
+7024 IS less than 20,000 so puzzle solved!
+The seed (puzzle answer) was: A41DD1BA
+Has the signature been verified: true
+
+Hexidecimal byte[] Representation of Original SHA256 Hash: bf820ce8a05aea5d074eb3567e08223217d9d57988d03ce31432597deb198be6
+
+null2nullRandomassignment115-334-123Exercise1995.09.17a68df6A41DD1BARandomassignment115-334-1231995.09.17InsomniaPillsExercise
+=========> In WriteJSON <=========
+
+String blockRecord is: null2nullRandomassignment115-334-123Exercise1995.09.17a68df6A41DD1BARandomassignment115-334-1231995.09.17InsomniaPillsExercise
+
+JSON String blockRecord is: "\n\nnullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44C1DADAS1JohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4ADB11GD3JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44S2SBDB3DJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4A4AAA353JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d5GS3CC5GWayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c63893DASAD3D4Randomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullJoeSmallpoxBlow52bd9fD4ABGAS4JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullWeiShinglesXubbd9f5AG4A33ADWeiXu1996.03.22123-456-333ShinglesnullnullnullBruceLee456-789-123Vicodine1940.11.27ca66b35AB4SSDBruceLee456-789-1231940.11.27SoreStomachLessCombatVicodinenullnullnullRitaVita1992.01.31TryToRelax6fcb194S31SCSDRitaVita1992.01.31999-456-789ObessivePersonalityTryToRelaxnullnullnullSallyMcCutty123-456-999Almotriptan1970.01.01787e22B1CDDS4BSallyMcCutty123-456-9991970.01.01MigraineIcePackAlmotriptannull1nullRandomassignment115-334-123Exercise1995.09.17ba4e672SSDAAACRandomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullJoeDiMaggioRestFromSports1914.11.252cc14cSASDB5ASJoeDiMaggio1914.11.25111-22-3333SoreKneesRestFromSportsnullnullnullHelenKeller666-45-6789Aspirin1880.06.277f8ef3ACS12DACHelenKeller666-45-67891880.06.27ArthritisWarmClothsAspirinnull2nullRandomassignment115-334-123Exercise1995.09.17a68df6A41DD1BARandomassignment115-334-1231995.09.17InsomniaPillsExercise"
+0x0000 = 0
+0xFFFF = 65535
+
+Hash is: C304F7974C0B117E0E22967FBC32CD9A2A0BE3A52FC3206AB91B17E4EDD1812F
+First 16 bits in Hex and Decimal: C304 and 49924
+49924 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 242F43132D8461AA70FBED6AB2DE111E9C52CCA600EEC8CD0657FA3AF2DF8BD5
+First 16 bits in Hex and Decimal: 242F and 9263
+9263 IS less than 20,000 so puzzle solved!
+The seed (puzzle answer) was: 23AG5CA5
+Has the signature been verified: true
+
+Hexidecimal byte[] Representation of Original SHA256 Hash: 5f23b4e2f6cd0d1b054956f71f66eaa90ae1945e1797354cce1192bb34fe3ca9
+
+nullnullnullJohnKennedyDrugTherapy1917.05.291392c023AG5CA5JohnKennedy1917.05.29333-45-6999AddisonsDiseaseDrugTherapy
+=========> In WriteJSON <=========
+
+String blockRecord is: nullnullnullJohnKennedyDrugTherapy1917.05.291392c023AG5CA5JohnKennedy1917.05.29333-45-6999AddisonsDiseaseDrugTherapy
+
+JSON String blockRecord is: "\n\nnullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44C1DADAS1JohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4ADB11GD3JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44S2SBDB3DJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4A4AAA353JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d5GS3CC5GWayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c63893DASAD3D4Randomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullJoeSmallpoxBlow52bd9fD4ABGAS4JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullWeiShinglesXubbd9f5AG4A33ADWeiXu1996.03.22123-456-333ShinglesnullnullnullBruceLee456-789-123Vicodine1940.11.27ca66b35AB4SSDBruceLee456-789-1231940.11.27SoreStomachLessCombatVicodinenullnullnullRitaVita1992.01.31TryToRelax6fcb194S31SCSDRitaVita1992.01.31999-456-789ObessivePersonalityTryToRelaxnullnullnullSallyMcCutty123-456-999Almotriptan1970.01.01787e22B1CDDS4BSallyMcCutty123-456-9991970.01.01MigraineIcePackAlmotriptannull1nullRandomassignment115-334-123Exercise1995.09.17ba4e672SSDAAACRandomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullJoeDiMaggioRestFromSports1914.11.252cc14cSASDB5ASJoeDiMaggio1914.11.25111-22-3333SoreKneesRestFromSportsnullnullnullHelenKeller666-45-6789Aspirin1880.06.277f8ef3ACS12DACHelenKeller666-45-67891880.06.27ArthritisWarmClothsAspirinnull2nullRandomassignment115-334-123Exercise1995.09.17a68df6A41DD1BARandomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullJohnKennedyDrugTherapy1917.05.291392c023AG5CA5JohnKennedy1917.05.29333-45-6999AddisonsDiseaseDrugTherapy"
+0x0000 = 0
+0xFFFF = 65535
+
+Hash is: 2091C9FB1D96A6789381C7527660D0894FC89BB08F72D875870A980FD0B3D4E2
+First 16 bits in Hex and Decimal: 2091 and 8337
+8337 IS less than 20,000 so puzzle solved!
+The seed (puzzle answer) was: SASADBAG
+Has the signature been verified: true
+
+Hexidecimal byte[] Representation of Original SHA256 Hash: d539d4b8741eb9e8199428fa0a21073b4ed041e1c9e90cfd384b3e898c4e0b89
+
+nullnullnullAbrahamLincoln444-45-6888Whiskey1809.02.12f21749SASADBAGAbrahamLincoln444-45-68881809.02.12GreviousWoundSurgeryWhiskey
+=========> In WriteJSON <=========
+
+String blockRecord is: nullnullnullAbrahamLincoln444-45-6888Whiskey1809.02.12f21749SASADBAGAbrahamLincoln444-45-68881809.02.12GreviousWoundSurgeryWhiskey
+
+JSON String blockRecord is: "\n\nnullnullnullJoeSmallpoxBlow52bd9fCB1DDGC2JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44D5D32CDSJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44C1DADAS1JohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4ADB11GD3JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullJohnSmith123-45-6789aspirin1996.03.07e75d44S2SBDB3DJohnSmith123-45-67891996.03.07ChickenpoxBedRestaspirinnullnullnullJulieWilson123-45-6999HotPeppers1996.03.07ae91f4A4AAA353JulieWilson123-45-69991996.03.07InsomniaExerciseHotPeppersnullnullnullWayneBlaine123-45-6777CodLiverOil1942.07.0791a73d5GS3CC5GWayneBlaine123-45-67771942.07.07MeaslesWaitToGetBetterCodLiverOilnull0nullRandomassignment115-334-123Exercise1995.09.17c63893DASAD3D4Randomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullJoeSmallpoxBlow52bd9fD4ABGAS4JoeBlow1996.03.07123-45-6888SmallpoxnullnullnullWeiShinglesXubbd9f5AG4A33ADWeiXu1996.03.22123-456-333ShinglesnullnullnullBruceLee456-789-123Vicodine1940.11.27ca66b35AB4SSDBruceLee456-789-1231940.11.27SoreStomachLessCombatVicodinenullnullnullRitaVita1992.01.31TryToRelax6fcb194S31SCSDRitaVita1992.01.31999-456-789ObessivePersonalityTryToRelaxnullnullnullSallyMcCutty123-456-999Almotriptan1970.01.01787e22B1CDDS4BSallyMcCutty123-456-9991970.01.01MigraineIcePackAlmotriptannull1nullRandomassignment115-334-123Exercise1995.09.17ba4e672SSDAAACRandomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullJoeDiMaggioRestFromSports1914.11.252cc14cSASDB5ASJoeDiMaggio1914.11.25111-22-3333SoreKneesRestFromSportsnullnullnullHelenKeller666-45-6789Aspirin1880.06.277f8ef3ACS12DACHelenKeller666-45-67891880.06.27ArthritisWarmClothsAspirinnull2nullRandomassignment115-334-123Exercise1995.09.17a68df6A41DD1BARandomassignment115-334-1231995.09.17InsomniaPillsExercisenullnullnullJohnKennedyDrugTherapy1917.05.291392c023AG5CA5JohnKennedy1917.05.29333-45-6999AddisonsDiseaseDrugTherapynullnullnullAbrahamLincoln444-45-6888Whiskey1809.02.12f21749SASADBAGAbrahamLincoln444-45-68881809.02.12GreviousWoundSurgeryWhiskey"
+
